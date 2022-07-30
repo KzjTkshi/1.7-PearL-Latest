@@ -1,0 +1,3552 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:52:39] password = ""  (string)
+[15:52:39] filterscripts = ""  (string)
+[15:52:39] 
+[15:52:39] Server Plugins
+[15:52:39] --------------
+[15:52:39]  Loading plugin: sscanf
+[15:52:39] 
+
+[15:52:39]  ===============================
+
+[15:52:39]       sscanf plugin loaded.     
+
+[15:52:39]          Version:  2.8.3        
+
+[15:52:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:52:39]  ===============================
+
+[15:52:39]   Loaded.
+[15:52:39]  Loading plugin: irc
+[15:52:39] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[15:52:39]   Loaded.
+[15:52:39]  Loading plugin: streamer
+[15:52:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:52:39]   Loaded.
+[15:52:39]  Loading plugin: samp_bcrypt
+[15:52:39] [SampBcrypt] [info]: Version: 0.3.2
+[15:52:39]   Loaded.
+[15:52:39]  Loading plugin: mysql
+[15:52:39]  >> plugin.mysql: R41-4 successfully loaded.
+[15:52:39]   Loaded.
+[15:52:39]  Loading plugin: pawn-memory
+[15:52:39] ========================
+[15:52:39] = Memory access plugin =
+[15:52:39] =       Made by BigETI =
+[15:52:39] = Loaded!              =
+[15:52:39] ========================
+[15:52:39]   Loaded.
+[15:52:39]  Loading plugin: samp-compat
+[15:52:39]   -- samp-compat for 0.3.7-R2 initialized
+[15:52:39]   Loaded.
+[15:52:39]  Loaded 7 plugins.
+
+[15:52:39] 
+[15:52:39] Filterscripts
+[15:52:39] ---------------
+[15:52:39]   Loaded 0 filterscripts.
+
+[15:52:39]  
+[15:52:39]  ========================================== 
+[15:52:39]  |                                        | 
+[15:52:39]  |    Generating code, this may take a    | 
+[15:52:39]  |           little bit of time.          | 
+[15:52:39]  |                                        | 
+[15:52:39]  |             Please wait...             | 
+[15:52:39]  |                                        | 
+[15:52:39]  ========================================== 
+[15:52:39]  |                                        | 
+[15:52:39]  | Note that this code generation works   | 
+[15:52:39]  | best with the JIT plugin, which you    | 
+[15:52:39]  | are not currently using.  Get it here: | 
+[15:52:39]  |                                        | 
+[15:52:39]  |        https://git.io/jit-plugin       | 
+[15:52:39]  |                                        | 
+[15:52:39]  ========================================== 
+[15:52:39]  
+[15:52:39]  
+[15:52:39]  
+[15:52:39]  
+[15:52:39]  ========================================== 
+[15:52:39]  |                                        | 
+[15:52:39]  |         YSI version 5.05.0301          | 
+[15:52:39]  |         By Alex "Y_Less" Cole          | 
+[15:52:39]  |                                        | 
+[15:52:39]  | Unable to check the latest YSI version | 
+[15:52:39]  | - please watch the forums and github:  | 
+[15:52:39]  |                                        | 
+[15:52:39]  |   https://git.io/5.x                   | 
+[15:52:39]  |                                        | 
+[15:52:39]  ========================================== 
+[15:52:39]  
+[15:52:39] [MySQL] - Terkoneksi!
+[15:52:39] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:52:39] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:52:45] password = ""  (string)
+[15:52:45] filterscripts = ""  (string)
+[15:52:45] 
+[15:52:45] Server Plugins
+[15:52:45] --------------
+[15:52:45]  Loading plugin: sscanf
+[15:52:45] 
+
+[15:52:45]  ===============================
+
+[15:52:45]       sscanf plugin loaded.     
+
+[15:52:45]          Version:  2.8.3        
+
+[15:52:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:52:45]  ===============================
+
+[15:52:45]   Loaded.
+[15:52:45]  Loading plugin: irc
+[15:52:45] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[15:52:45]   Loaded.
+[15:52:45]  Loading plugin: streamer
+[15:52:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:52:45]   Loaded.
+[15:52:45]  Loading plugin: samp_bcrypt
+[15:52:45] [SampBcrypt] [info]: Version: 0.3.2
+[15:52:45]   Loaded.
+[15:52:45]  Loading plugin: mysql
+[15:52:45]  >> plugin.mysql: R41-4 successfully loaded.
+[15:52:45]   Loaded.
+[15:52:45]  Loading plugin: pawn-memory
+[15:52:45] ========================
+[15:52:45] = Memory access plugin =
+[15:52:45] =       Made by BigETI =
+[15:52:45] = Loaded!              =
+[15:52:45] ========================
+[15:52:45]   Loaded.
+[15:52:45]  Loading plugin: samp-compat
+[15:52:45]   -- samp-compat for 0.3.7-R2 initialized
+[15:52:45]   Loaded.
+[15:52:45]  Loaded 7 plugins.
+
+[15:52:45] 
+[15:52:45] Filterscripts
+[15:52:45] ---------------
+[15:52:45]   Loaded 0 filterscripts.
+
+[15:52:45]  
+[15:52:45]  ========================================== 
+[15:52:45]  |                                        | 
+[15:52:45]  |    Generating code, this may take a    | 
+[15:52:45]  |           little bit of time.          | 
+[15:52:45]  |                                        | 
+[15:52:45]  |             Please wait...             | 
+[15:52:45]  |                                        | 
+[15:52:45]  ========================================== 
+[15:52:45]  |                                        | 
+[15:52:45]  | Note that this code generation works   | 
+[15:52:45]  | best with the JIT plugin, which you    | 
+[15:52:45]  | are not currently using.  Get it here: | 
+[15:52:45]  |                                        | 
+[15:52:45]  |        https://git.io/jit-plugin       | 
+[15:52:45]  |                                        | 
+[15:52:45]  ========================================== 
+[15:52:45]  
+[15:52:45]  
+[15:52:45]  
+[15:52:45]  
+[15:52:45]  ========================================== 
+[15:52:45]  |                                        | 
+[15:52:45]  |         YSI version 5.05.0301          | 
+[15:52:45]  |         By Alex "Y_Less" Cole          | 
+[15:52:45]  |                                        | 
+[15:52:45]  | Unable to check the latest YSI version | 
+[15:52:45]  | - please watch the forums and github:  | 
+[15:52:45]  |                                        | 
+[15:52:45]  |   https://git.io/5.x                   | 
+[15:52:45]  |                                        | 
+[15:52:45]  ========================================== 
+[15:52:45]  
+[15:52:45] [MySQL] - Terkoneksi!
+[15:52:45] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:52:45] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:52:52] password = ""  (string)
+[15:52:52] filterscripts = ""  (string)
+[15:52:52] 
+[15:52:52] Server Plugins
+[15:52:52] --------------
+[15:52:52]  Loading plugin: sscanf
+[15:52:52] 
+
+[15:52:52]  ===============================
+
+[15:52:52]       sscanf plugin loaded.     
+
+[15:52:52]          Version:  2.8.3        
+
+[15:52:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:52:52]  ===============================
+
+[15:52:52]   Loaded.
+[15:52:52]  Loading plugin: irc
+[15:52:52] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[15:52:52]   Loaded.
+[15:52:52]  Loading plugin: streamer
+[15:52:52] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:52:52]   Loaded.
+[15:52:52]  Loading plugin: samp_bcrypt
+[15:52:52] [SampBcrypt] [info]: Version: 0.3.2
+[15:52:52]   Loaded.
+[15:52:52]  Loading plugin: mysql
+[15:52:52]   Failed.
+[15:52:52]  Loading plugin: pawn-memory
+[15:52:52] ========================
+[15:52:52] = Memory access plugin =
+[15:52:52] =       Made by BigETI =
+[15:52:52] = Loaded!              =
+[15:52:52] ========================
+[15:52:52]   Loaded.
+[15:52:52]  Loading plugin: samp-compat
+[15:52:52]   -- samp-compat for 0.3.7-R2 initialized
+[15:52:52]   Loaded.
+[15:52:52]  Loaded 6 plugins.
+
+[15:52:52] 
+[15:52:52] Filterscripts
+[15:52:52] ---------------
+[15:52:52]   Loaded 0 filterscripts.
+
+[15:52:52] Script[gamemodes/NewUpdate.amx]: Run time error 19: "File or function is not found"
+[15:52:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:53:12] password = ""  (string)
+[15:53:12] filterscripts = ""  (string)
+[15:53:12] 
+[15:53:12] Server Plugins
+[15:53:12] --------------
+[15:53:12]  Loading plugin: sscanf
+[15:53:12] 
+
+[15:53:12]  ===============================
+
+[15:53:12]       sscanf plugin loaded.     
+
+[15:53:12]          Version:  2.8.3        
+
+[15:53:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:53:12]  ===============================
+
+[15:53:12]   Loaded.
+[15:53:12]  Loading plugin: irc
+[15:53:12] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[15:53:12]   Loaded.
+[15:53:12]  Loading plugin: streamer
+[15:53:12] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:53:12]   Loaded.
+[15:53:12]  Loading plugin: samp_bcrypt
+[15:53:12] [SampBcrypt] [info]: Version: 0.3.2
+[15:53:12]   Loaded.
+[15:53:12]  Loading plugin: mysql
+[15:53:12]  >> plugin.mysql: R41-4 successfully loaded.
+[15:53:12]   Loaded.
+[15:53:12]  Loading plugin: pawn-memory
+[15:53:12] ========================
+[15:53:12] = Memory access plugin =
+[15:53:12] =       Made by BigETI =
+[15:53:12] = Loaded!              =
+[15:53:12] ========================
+[15:53:12]   Loaded.
+[15:53:12]  Loading plugin: samp-compat
+[15:53:12]   -- samp-compat for 0.3.7-R2 initialized
+[15:53:12]   Loaded.
+[15:53:12]  Loaded 7 plugins.
+
+[15:53:12] 
+[15:53:12] Filterscripts
+[15:53:12] ---------------
+[15:53:12]   Loaded 0 filterscripts.
+
+[15:53:12]  
+[15:53:12]  ========================================== 
+[15:53:12]  |                                        | 
+[15:53:12]  |    Generating code, this may take a    | 
+[15:53:12]  |           little bit of time.          | 
+[15:53:12]  |                                        | 
+[15:53:12]  |             Please wait...             | 
+[15:53:12]  |                                        | 
+[15:53:12]  ========================================== 
+[15:53:12]  |                                        | 
+[15:53:12]  | Note that this code generation works   | 
+[15:53:12]  | best with the JIT plugin, which you    | 
+[15:53:12]  | are not currently using.  Get it here: | 
+[15:53:12]  |                                        | 
+[15:53:12]  |        https://git.io/jit-plugin       | 
+[15:53:12]  |                                        | 
+[15:53:12]  ========================================== 
+[15:53:12]  
+[15:53:12]  
+[15:53:12]  
+[15:53:12]  
+[15:53:12]  ========================================== 
+[15:53:12]  |                                        | 
+[15:53:12]  |         YSI version 5.05.0301          | 
+[15:53:12]  |         By Alex "Y_Less" Cole          | 
+[15:53:12]  |                                        | 
+[15:53:12]  | Unable to check the latest YSI version | 
+[15:53:12]  | - please watch the forums and github:  | 
+[15:53:12]  |                                        | 
+[15:53:12]  |   https://git.io/5.x                   | 
+[15:53:12]  |                                        | 
+[15:53:12]  ========================================== 
+[15:53:12]  
+[15:53:12] [MySQL] - Terkoneksi!
+[15:53:12] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:53:12] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:53:48] password = ""  (string)
+[15:53:48] filterscripts = ""  (string)
+[15:53:48] 
+[15:53:48] Server Plugins
+[15:53:48] --------------
+[15:53:48]  Loading plugin: sscanf
+[15:53:48] 
+
+[15:53:48]  ===============================
+
+[15:53:48]       sscanf plugin loaded.     
+
+[15:53:48]          Version:  2.8.3        
+
+[15:53:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:53:48]  ===============================
+
+[15:53:48]   Loaded.
+[15:53:48]  Loading plugin: irc
+[15:53:48] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[15:53:48]   Loaded.
+[15:53:48]  Loading plugin: streamer
+[15:53:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:53:48]   Loaded.
+[15:53:48]  Loading plugin: samp_bcrypt
+[15:53:48] [SampBcrypt] [info]: Version: 0.3.2
+[15:53:48]   Loaded.
+[15:53:48]  Loading plugin: mysql
+[15:53:48]   Failed.
+[15:53:48]  Loading plugin: pawn-memory
+[15:53:48] ========================
+[15:53:48] = Memory access plugin =
+[15:53:48] =       Made by BigETI =
+[15:53:48] = Loaded!              =
+[15:53:48] ========================
+[15:53:48]   Loaded.
+[15:53:48]  Loading plugin: samp-compat
+[15:53:48]   -- samp-compat for 0.3.7-R2 initialized
+[15:53:48]   Loaded.
+[15:53:48]  Loading plugin: log-core
+[15:53:48]   Plugin does not conform to architecture.
+[15:53:48]   Failed.
+[15:53:48]  Loaded 6 plugins.
+
+[15:53:48] 
+[15:53:48] Filterscripts
+[15:53:48] ---------------
+[15:53:48]   Loaded 0 filterscripts.
+
+[15:53:48] Script[gamemodes/NewUpdate.amx]: Run time error 19: "File or function is not found"
+[15:53:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:54:06] password = ""  (string)
+[15:54:06] filterscripts = ""  (string)
+[15:54:06] 
+[15:54:06] Server Plugins
+[15:54:06] --------------
+[15:54:06]  Loading plugin: sscanf
+[15:54:06] 
+
+[15:54:06]  ===============================
+
+[15:54:06]       sscanf plugin loaded.     
+
+[15:54:06]          Version:  2.8.3        
+
+[15:54:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:54:06]  ===============================
+
+[15:54:06]   Loaded.
+[15:54:06]  Loading plugin: irc
+[15:54:06] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[15:54:06]   Loaded.
+[15:54:06]  Loading plugin: streamer
+[15:54:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:54:06]   Loaded.
+[15:54:06]  Loading plugin: samp_bcrypt
+[15:54:06] [SampBcrypt] [info]: Version: 0.3.2
+[15:54:06]   Loaded.
+[15:54:06]  Loading plugin: mysql
+[15:54:06]  >> plugin.mysql: R41-4 successfully loaded.
+[15:54:06]   Loaded.
+[15:54:06]  Loaded 5 plugins.
+
+[15:54:06] 
+[15:54:06] Filterscripts
+[15:54:06] ---------------
+[15:54:06]   Loaded 0 filterscripts.
+
+[15:54:06]  
+[15:54:06]  ========================================== 
+[15:54:06]  |                                        | 
+[15:54:06]  |    Generating code, this may take a    | 
+[15:54:06]  |           little bit of time.          | 
+[15:54:06]  |                                        | 
+[15:54:06]  |             Please wait...             | 
+[15:54:06]  |                                        | 
+[15:54:06]  ========================================== 
+[15:54:06]  |                                        | 
+[15:54:06]  | Note that this code generation works   | 
+[15:54:06]  | best with the JIT plugin, which you    | 
+[15:54:06]  | are not currently using.  Get it here: | 
+[15:54:06]  |                                        | 
+[15:54:06]  |        https://git.io/jit-plugin       | 
+[15:54:06]  |                                        | 
+[15:54:06]  ========================================== 
+[15:54:06]  
+[15:54:06]  
+[15:54:06]  
+[15:54:06]  
+[15:54:06]  ========================================== 
+[15:54:06]  |                                        | 
+[15:54:06]  |         YSI version 5.05.0301          | 
+[15:54:06]  |         By Alex "Y_Less" Cole          | 
+[15:54:06]  |                                        | 
+[15:54:06]  | Unable to check the latest YSI version | 
+[15:54:06]  | - please watch the forums and github:  | 
+[15:54:06]  |                                        | 
+[15:54:06]  |   https://git.io/5.x                   | 
+[15:54:06]  |                                        | 
+[15:54:06]  ========================================== 
+[15:54:06]  
+[15:54:06] [MySQL] - Terkoneksi!
+[15:54:06] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:54:06] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:56:57] password = ""  (string)
+[15:56:57] filterscripts = ""  (string)
+[15:56:58] 
+[15:56:58] Server Plugins
+[15:56:58] --------------
+[15:56:58]  Loading plugin: sscanf
+[15:56:58] 
+
+[15:56:58]  ===============================
+
+[15:56:58]       sscanf plugin loaded.     
+
+[15:56:58]          Version:  2.8.3        
+
+[15:56:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:56:58]  ===============================
+
+[15:56:58]   Loaded.
+[15:56:58]  Loading plugin: irc
+[15:56:58] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[15:56:58]   Loaded.
+[15:56:58]  Loading plugin: streamer
+[15:56:58] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:56:58]   Loaded.
+[15:56:58]  Loading plugin: samp_bcrypt
+[15:56:58] [SampBcrypt] [info]: Version: 0.3.2
+[15:56:58]   Loaded.
+[15:56:58]  Loading plugin: mysql
+[15:56:58]  >> plugin.mysql: R41-4 successfully loaded.
+[15:56:58]   Loaded.
+[15:56:58]  Loaded 5 plugins.
+
+[15:56:58] 
+[15:56:58] Filterscripts
+[15:56:58] ---------------
+[15:56:58]   Loaded 0 filterscripts.
+
+[15:56:58]  
+[15:56:58]  ========================================== 
+[15:56:58]  |                                        | 
+[15:56:58]  |    Generating code, this may take a    | 
+[15:56:58]  |           little bit of time.          | 
+[15:56:58]  |                                        | 
+[15:56:58]  |             Please wait...             | 
+[15:56:58]  |                                        | 
+[15:56:58]  ========================================== 
+[15:56:58]  |                                        | 
+[15:56:58]  | Note that this code generation works   | 
+[15:56:58]  | best with the JIT plugin, which you    | 
+[15:56:58]  | are not currently using.  Get it here: | 
+[15:56:58]  |                                        | 
+[15:56:58]  |        https://git.io/jit-plugin       | 
+[15:56:58]  |                                        | 
+[15:56:58]  ========================================== 
+[15:56:58]  
+[15:56:58]  
+[15:56:58]  
+[15:56:58]  
+[15:56:58]  ========================================== 
+[15:56:58]  |                                        | 
+[15:56:58]  |         YSI version 5.05.0301          | 
+[15:56:58]  |         By Alex "Y_Less" Cole          | 
+[15:56:58]  |                                        | 
+[15:56:58]  | Unable to check the latest YSI version | 
+[15:56:58]  | - please watch the forums and github:  | 
+[15:56:58]  |                                        | 
+[15:56:58]  |   https://git.io/5.x                   | 
+[15:56:58]  |                                        | 
+[15:56:58]  ========================================== 
+[15:56:58]  
+[15:56:58] [MySQL] - Terkoneksi!
+[15:56:58] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:56:58] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:57:08] password = ""  (string)
+[15:57:08] filterscripts = ""  (string)
+[15:57:08] 
+[15:57:08] Server Plugins
+[15:57:08] --------------
+[15:57:08]  Loading plugin: sscanf
+[15:57:08] 
+
+[15:57:08]  ===============================
+
+[15:57:08]       sscanf plugin loaded.     
+
+[15:57:08]          Version:  2.8.3        
+
+[15:57:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:57:08]  ===============================
+
+[15:57:08]   Loaded.
+[15:57:08]  Loading plugin: irc
+[15:57:08] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[15:57:08]   Loaded.
+[15:57:08]  Loading plugin: streamer
+[15:57:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:57:08]   Loaded.
+[15:57:08]  Loading plugin: samp_bcrypt
+[15:57:08] [SampBcrypt] [info]: Version: 0.3.2
+[15:57:08]   Loaded.
+[15:57:08]  Loading plugin: mysql
+[15:57:08]  >> plugin.mysql: R41-4 successfully loaded.
+[15:57:08]   Loaded.
+[15:57:08]  Loaded 5 plugins.
+
+[15:57:08] 
+[15:57:08] Filterscripts
+[15:57:08] ---------------
+[15:57:08]   Loaded 0 filterscripts.
+
+[15:57:08]  
+[15:57:08]  ========================================== 
+[15:57:08]  |                                        | 
+[15:57:08]  |    Generating code, this may take a    | 
+[15:57:08]  |           little bit of time.          | 
+[15:57:08]  |                                        | 
+[15:57:08]  |             Please wait...             | 
+[15:57:08]  |                                        | 
+[15:57:08]  ========================================== 
+[15:57:08]  |                                        | 
+[15:57:08]  | Note that this code generation works   | 
+[15:57:08]  | best with the JIT plugin, which you    | 
+[15:57:08]  | are not currently using.  Get it here: | 
+[15:57:08]  |                                        | 
+[15:57:08]  |        https://git.io/jit-plugin       | 
+[15:57:08]  |                                        | 
+[15:57:08]  ========================================== 
+[15:57:08]  
+[15:57:08]  
+[15:57:08]  
+[15:57:08]  
+[15:57:08]  ========================================== 
+[15:57:08]  |                                        | 
+[15:57:08]  |         YSI version 5.05.0301          | 
+[15:57:08]  |         By Alex "Y_Less" Cole          | 
+[15:57:08]  |                                        | 
+[15:57:08]  | Unable to check the latest YSI version | 
+[15:57:08]  | - please watch the forums and github:  | 
+[15:57:08]  |                                        | 
+[15:57:08]  |   https://git.io/5.x                   | 
+[15:57:08]  |                                        | 
+[15:57:08]  ========================================== 
+[15:57:08]  
+[15:57:08] [MySQL] - Terkoneksi!
+[15:57:08] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:57:08] Number of vehicle models: 28
+[15:58:00] [connection] incoming connection: 127.0.0.1:63722 id: 0
+[15:58:00] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[15:58:13] [nick] Kazuji_Takashi nick changed to Takashi
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:07:55] password = ""  (string)
+[16:07:55] filterscripts = ""  (string)
+[16:07:55] 
+[16:07:55] Server Plugins
+[16:07:55] --------------
+[16:07:55]  Loading plugin: sscanf
+[16:07:55] 
+
+[16:07:55]  ===============================
+
+[16:07:55]       sscanf plugin loaded.     
+
+[16:07:55]          Version:  2.8.3        
+
+[16:07:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:07:55]  ===============================
+
+[16:07:55]   Loaded.
+[16:07:55]  Loading plugin: irc
+[16:07:55] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:07:55]   Loaded.
+[16:07:55]  Loading plugin: streamer
+[16:07:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:07:55]   Loaded.
+[16:07:55]  Loading plugin: samp_bcrypt
+[16:07:55] [SampBcrypt] [info]: Version: 0.3.2
+[16:07:55]   Loaded.
+[16:07:55]  Loading plugin: mysql
+[16:07:55]  >> plugin.mysql: R41-4 successfully loaded.
+[16:07:55]   Loaded.
+[16:07:55]  Loaded 5 plugins.
+
+[16:07:55] 
+[16:07:55] Filterscripts
+[16:07:55] ---------------
+[16:07:55]   Loaded 0 filterscripts.
+
+[16:07:55]  
+[16:07:55]  ========================================== 
+[16:07:55]  |                                        | 
+[16:07:55]  |    Generating code, this may take a    | 
+[16:07:55]  |           little bit of time.          | 
+[16:07:55]  |                                        | 
+[16:07:55]  |             Please wait...             | 
+[16:07:55]  |                                        | 
+[16:07:55]  ========================================== 
+[16:07:55]  |                                        | 
+[16:07:55]  | Note that this code generation works   | 
+[16:07:55]  | best with the JIT plugin, which you    | 
+[16:07:55]  | are not currently using.  Get it here: | 
+[16:07:55]  |                                        | 
+[16:07:55]  |        https://git.io/jit-plugin       | 
+[16:07:55]  |                                        | 
+[16:07:55]  ========================================== 
+[16:07:55]  
+[16:07:55]  
+[16:07:55]  
+[16:07:55]  
+[16:07:55]  ========================================== 
+[16:07:55]  |                                        | 
+[16:07:55]  |         YSI version 5.05.0301          | 
+[16:07:55]  |         By Alex "Y_Less" Cole          | 
+[16:07:55]  |                                        | 
+[16:07:55]  | Unable to check the latest YSI version | 
+[16:07:55]  | - please watch the forums and github:  | 
+[16:07:55]  |                                        | 
+[16:07:55]  |   https://git.io/5.x                   | 
+[16:07:55]  |                                        | 
+[16:07:55]  ========================================== 
+[16:07:55]  
+[16:07:55] [MySQL] - Terkoneksi!
+[16:07:55] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:07:55] Number of vehicle models: 28
+[16:09:12] [connection] incoming connection: 127.0.0.1:56342 id: 0
+[16:09:13] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:09:25] [nick] Kazuji_Takashi nick changed to Takashi
+[16:10:45] [nick] Takashi nick changed to Kazuji_Takashi
+[16:12:54] [part] Kazuji_Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:13:50] password = ""  (string)
+[16:13:50] 
+[16:13:50] Server Plugins
+[16:13:50] --------------
+[16:13:50]  Loading plugin: sscanf
+[16:13:50] 
+
+[16:13:50]  ===============================
+
+[16:13:50]       sscanf plugin loaded.     
+
+[16:13:50]          Version:  2.8.3        
+
+[16:13:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:13:50]  ===============================
+
+[16:13:50]   Loaded.
+[16:13:50]  Loading plugin: irc
+[16:13:50] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:13:50]   Loaded.
+[16:13:50]  Loading plugin: streamer
+[16:13:50] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:13:50]   Loaded.
+[16:13:50]  Loading plugin: samp_bcrypt
+[16:13:50] [SampBcrypt] [info]: Version: 0.3.2
+[16:13:50]   Loaded.
+[16:13:50]  Loading plugin: mysql
+[16:13:50]  >> plugin.mysql: R41-4 successfully loaded.
+[16:13:50]   Loaded.
+[16:13:50]  Loaded 5 plugins.
+
+[16:13:50] 
+[16:13:50] Filterscripts
+[16:13:50] ---------------
+[16:13:50]   Loading filterscript 'Switch.amx'...
+[16:13:50]   Loaded 1 filterscripts.
+
+[16:13:50]  
+[16:13:50]  ========================================== 
+[16:13:50]  |                                        | 
+[16:13:50]  |    Generating code, this may take a    | 
+[16:13:50]  |           little bit of time.          | 
+[16:13:50]  |                                        | 
+[16:13:50]  |             Please wait...             | 
+[16:13:50]  |                                        | 
+[16:13:50]  ========================================== 
+[16:13:50]  |                                        | 
+[16:13:50]  | Note that this code generation works   | 
+[16:13:50]  | best with the JIT plugin, which you    | 
+[16:13:50]  | are not currently using.  Get it here: | 
+[16:13:50]  |                                        | 
+[16:13:50]  |        https://git.io/jit-plugin       | 
+[16:13:50]  |                                        | 
+[16:13:50]  ========================================== 
+[16:13:50]  
+[16:13:50]  
+[16:13:50]  
+[16:13:50]  
+[16:13:50]  ========================================== 
+[16:13:50]  |                                        | 
+[16:13:50]  |         YSI version 5.05.0301          | 
+[16:13:50]  |         By Alex "Y_Less" Cole          | 
+[16:13:50]  |                                        | 
+[16:13:50]  | Unable to check the latest YSI version | 
+[16:13:50]  | - please watch the forums and github:  | 
+[16:13:50]  |                                        | 
+[16:13:50]  |   https://git.io/5.x                   | 
+[16:13:50]  |                                        | 
+[16:13:50]  ========================================== 
+[16:13:50]  
+[16:13:50] [MySQL] - Terkoneksi!
+[16:13:50] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:13:50] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:15:03] password = ""  (string)
+[16:15:03] 
+[16:15:03] Server Plugins
+[16:15:03] --------------
+[16:15:03]  Loading plugin: sscanf
+[16:15:03] 
+
+[16:15:03]  ===============================
+
+[16:15:03]       sscanf plugin loaded.     
+
+[16:15:03]          Version:  2.8.3        
+
+[16:15:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:15:03]  ===============================
+
+[16:15:03]   Loaded.
+[16:15:03]  Loading plugin: irc
+[16:15:03] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:15:03]   Loaded.
+[16:15:03]  Loading plugin: streamer
+[16:15:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:15:03]   Loaded.
+[16:15:03]  Loading plugin: samp_bcrypt
+[16:15:03] [SampBcrypt] [info]: Version: 0.3.2
+[16:15:03]   Loaded.
+[16:15:03]  Loading plugin: mysql
+[16:15:03]  >> plugin.mysql: R41-4 successfully loaded.
+[16:15:03]   Loaded.
+[16:15:03]  Loaded 5 plugins.
+
+[16:15:03] 
+[16:15:03] Filterscripts
+[16:15:03] ---------------
+[16:15:03]   Loading filterscript 'Switch.amx'...
+[16:15:03]   Loaded 1 filterscripts.
+
+[16:15:03]  
+[16:15:03]  ========================================== 
+[16:15:03]  |                                        | 
+[16:15:03]  |    Generating code, this may take a    | 
+[16:15:03]  |           little bit of time.          | 
+[16:15:03]  |                                        | 
+[16:15:03]  |             Please wait...             | 
+[16:15:03]  |                                        | 
+[16:15:03]  ========================================== 
+[16:15:03]  |                                        | 
+[16:15:03]  | Note that this code generation works   | 
+[16:15:03]  | best with the JIT plugin, which you    | 
+[16:15:03]  | are not currently using.  Get it here: | 
+[16:15:03]  |                                        | 
+[16:15:03]  |        https://git.io/jit-plugin       | 
+[16:15:03]  |                                        | 
+[16:15:03]  ========================================== 
+[16:15:03]  
+[16:15:03]  
+[16:15:03]  
+[16:15:03]  
+[16:15:03]  ========================================== 
+[16:15:03]  |                                        | 
+[16:15:03]  |         YSI version 5.05.0301          | 
+[16:15:03]  |         By Alex "Y_Less" Cole          | 
+[16:15:03]  |                                        | 
+[16:15:03]  | Unable to check the latest YSI version | 
+[16:15:03]  | - please watch the forums and github:  | 
+[16:15:03]  |                                        | 
+[16:15:03]  |   https://git.io/5.x                   | 
+[16:15:03]  |                                        | 
+[16:15:03]  ========================================== 
+[16:15:03]  
+[16:15:03] [MySQL] - Terkoneksi!
+[16:15:03] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:15:03] Number of vehicle models: 28
+[16:15:43] [connection] incoming connection: 127.0.0.1:56274 id: 0
+[16:15:43] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:16:17] [nick] Kazuji_Takashi nick changed to Takashi
+[16:16:31] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:16:53] password = ""  (string)
+[16:16:53] 
+[16:16:53] Server Plugins
+[16:16:53] --------------
+[16:16:53]  Loading plugin: sscanf
+[16:16:53] 
+
+[16:16:53]  ===============================
+
+[16:16:53]       sscanf plugin loaded.     
+
+[16:16:53]          Version:  2.8.3        
+
+[16:16:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:16:53]  ===============================
+
+[16:16:53]   Loaded.
+[16:16:53]  Loading plugin: irc
+[16:16:53] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:16:53]   Loaded.
+[16:16:53]  Loading plugin: streamer
+[16:16:53] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:16:53]   Loaded.
+[16:16:53]  Loading plugin: samp_bcrypt
+[16:16:53] [SampBcrypt] [info]: Version: 0.3.2
+[16:16:53]   Loaded.
+[16:16:53]  Loading plugin: mysql
+[16:16:53]  >> plugin.mysql: R41-4 successfully loaded.
+[16:16:53]   Loaded.
+[16:16:53]  Loaded 5 plugins.
+
+[16:16:53] 
+[16:16:53] Filterscripts
+[16:16:53] ---------------
+[16:16:53]   Loading filterscript 'Switch.amx'...
+[16:16:53]   Loaded 1 filterscripts.
+
+[16:16:53]  
+[16:16:53]  ========================================== 
+[16:16:53]  |                                        | 
+[16:16:53]  |    Generating code, this may take a    | 
+[16:16:53]  |           little bit of time.          | 
+[16:16:53]  |                                        | 
+[16:16:53]  |             Please wait...             | 
+[16:16:53]  |                                        | 
+[16:16:53]  ========================================== 
+[16:16:53]  |                                        | 
+[16:16:53]  | Note that this code generation works   | 
+[16:16:53]  | best with the JIT plugin, which you    | 
+[16:16:53]  | are not currently using.  Get it here: | 
+[16:16:53]  |                                        | 
+[16:16:53]  |        https://git.io/jit-plugin       | 
+[16:16:53]  |                                        | 
+[16:16:53]  ========================================== 
+[16:16:53]  
+[16:16:53]  
+[16:16:53]  
+[16:16:53]  
+[16:16:53]  ========================================== 
+[16:16:53]  |                                        | 
+[16:16:53]  |         YSI version 5.05.0301          | 
+[16:16:53]  |         By Alex "Y_Less" Cole          | 
+[16:16:53]  |                                        | 
+[16:16:53]  | Unable to check the latest YSI version | 
+[16:16:53]  | - please watch the forums and github:  | 
+[16:16:53]  |                                        | 
+[16:16:53]  |   https://git.io/5.x                   | 
+[16:16:53]  |                                        | 
+[16:16:53]  ========================================== 
+[16:16:53]  
+[16:16:53] [MySQL] - Terkoneksi!
+[16:16:53] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:16:53] Number of vehicle models: 28
+[16:17:33] [connection] incoming connection: 127.0.0.1:55718 id: 0
+[16:17:33] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:17:48] [nick] Kazuji_Takashi nick changed to Takashi
+[16:20:03] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:20:08] password = ""  (string)
+[16:20:08] 
+[16:20:08] Server Plugins
+[16:20:08] --------------
+[16:20:08]  Loading plugin: sscanf
+[16:20:08] 
+
+[16:20:08]  ===============================
+
+[16:20:08]       sscanf plugin loaded.     
+
+[16:20:08]          Version:  2.8.3        
+
+[16:20:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:20:08]  ===============================
+
+[16:20:08]   Loaded.
+[16:20:08]  Loading plugin: irc
+[16:20:08] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:20:08]   Loaded.
+[16:20:08]  Loading plugin: streamer
+[16:20:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:20:08]   Loaded.
+[16:20:08]  Loading plugin: samp_bcrypt
+[16:20:08] [SampBcrypt] [info]: Version: 0.3.2
+[16:20:08]   Loaded.
+[16:20:08]  Loading plugin: mysql
+[16:20:08]  >> plugin.mysql: R41-4 successfully loaded.
+[16:20:08]   Loaded.
+[16:20:08]  Loaded 5 plugins.
+
+[16:20:08] 
+[16:20:08] Filterscripts
+[16:20:08] ---------------
+[16:20:08]   Loading filterscript 'Switch.amx'...
+[16:20:08]   Loaded 1 filterscripts.
+
+[16:20:08]  
+[16:20:08]  ========================================== 
+[16:20:08]  |                                        | 
+[16:20:08]  |    Generating code, this may take a    | 
+[16:20:08]  |           little bit of time.          | 
+[16:20:08]  |                                        | 
+[16:20:08]  |             Please wait...             | 
+[16:20:08]  |                                        | 
+[16:20:08]  ========================================== 
+[16:20:08]  |                                        | 
+[16:20:08]  | Note that this code generation works   | 
+[16:20:08]  | best with the JIT plugin, which you    | 
+[16:20:08]  | are not currently using.  Get it here: | 
+[16:20:08]  |                                        | 
+[16:20:08]  |        https://git.io/jit-plugin       | 
+[16:20:08]  |                                        | 
+[16:20:08]  ========================================== 
+[16:20:08]  
+[16:20:08]  
+[16:20:08]  
+[16:20:08]  
+[16:20:08]  ========================================== 
+[16:20:08]  |                                        | 
+[16:20:08]  |         YSI version 5.05.0301          | 
+[16:20:08]  |         By Alex "Y_Less" Cole          | 
+[16:20:08]  |                                        | 
+[16:20:08]  | Unable to check the latest YSI version | 
+[16:20:08]  | - please watch the forums and github:  | 
+[16:20:08]  |                                        | 
+[16:20:08]  |   https://git.io/5.x                   | 
+[16:20:08]  |                                        | 
+[16:20:08]  ========================================== 
+[16:20:08]  
+[16:20:08] [MySQL] - Terkoneksi!
+[16:20:08] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:20:08] Number of vehicle models: 28
+[16:20:47] [connection] incoming connection: 127.0.0.1:64097 id: 0
+[16:20:48] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:21:01] [nick] Kazuji_Takashi nick changed to Takashi
+[16:21:27] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:22:30] password = ""  (string)
+[16:22:30] 
+[16:22:30] Server Plugins
+[16:22:30] --------------
+[16:22:30]  Loading plugin: sscanf
+[16:22:30] 
+
+[16:22:30]  ===============================
+
+[16:22:30]       sscanf plugin loaded.     
+
+[16:22:30]          Version:  2.8.3        
+
+[16:22:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:22:30]  ===============================
+
+[16:22:30]   Loaded.
+[16:22:30]  Loading plugin: irc
+[16:22:30] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:22:30]   Loaded.
+[16:22:30]  Loading plugin: streamer
+[16:22:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:22:30]   Loaded.
+[16:22:30]  Loading plugin: samp_bcrypt
+[16:22:30] [SampBcrypt] [info]: Version: 0.3.2
+[16:22:30]   Loaded.
+[16:22:30]  Loading plugin: mysql
+[16:22:30]  >> plugin.mysql: R41-4 successfully loaded.
+[16:22:30]   Loaded.
+[16:22:30]  Loaded 5 plugins.
+
+[16:22:30] 
+[16:22:30] Filterscripts
+[16:22:30] ---------------
+[16:22:30]   Loading filterscript 'Switch.amx'...
+[16:22:30]   Loaded 1 filterscripts.
+
+[16:22:30]  
+[16:22:30]  ========================================== 
+[16:22:30]  |                                        | 
+[16:22:30]  |    Generating code, this may take a    | 
+[16:22:30]  |           little bit of time.          | 
+[16:22:30]  |                                        | 
+[16:22:30]  |             Please wait...             | 
+[16:22:30]  |                                        | 
+[16:22:30]  ========================================== 
+[16:22:30]  |                                        | 
+[16:22:30]  | Note that this code generation works   | 
+[16:22:30]  | best with the JIT plugin, which you    | 
+[16:22:30]  | are not currently using.  Get it here: | 
+[16:22:30]  |                                        | 
+[16:22:30]  |        https://git.io/jit-plugin       | 
+[16:22:30]  |                                        | 
+[16:22:30]  ========================================== 
+[16:22:30]  
+[16:22:30]  
+[16:22:30]  
+[16:22:30]  
+[16:22:30]  ========================================== 
+[16:22:30]  |                                        | 
+[16:22:30]  |         YSI version 5.05.0301          | 
+[16:22:30]  |         By Alex "Y_Less" Cole          | 
+[16:22:30]  |                                        | 
+[16:22:30]  | Unable to check the latest YSI version | 
+[16:22:30]  | - please watch the forums and github:  | 
+[16:22:30]  |                                        | 
+[16:22:30]  |   https://git.io/5.x                   | 
+[16:22:30]  |                                        | 
+[16:22:30]  ========================================== 
+[16:22:30]  
+[16:22:30] [MySQL] - Terkoneksi!
+[16:22:30] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:22:30] Number of vehicle models: 28
+[16:23:08] [connection] incoming connection: 127.0.0.1:52870 id: 0
+[16:23:09] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:23:32] [nick] Kazuji_Takashi nick changed to Takashi
+[16:26:56] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:27:42] password = ""  (string)
+[16:27:42] 
+[16:27:42] Server Plugins
+[16:27:42] --------------
+[16:27:42]  Loading plugin: sscanf
+[16:27:42] 
+
+[16:27:42]  ===============================
+
+[16:27:42]       sscanf plugin loaded.     
+
+[16:27:42]          Version:  2.8.3        
+
+[16:27:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:27:42]  ===============================
+
+[16:27:42]   Loaded.
+[16:27:42]  Loading plugin: irc
+[16:27:42] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:27:42]   Loaded.
+[16:27:42]  Loading plugin: streamer
+[16:27:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:27:42]   Loaded.
+[16:27:42]  Loading plugin: samp_bcrypt
+[16:27:42] [SampBcrypt] [info]: Version: 0.3.2
+[16:27:42]   Loaded.
+[16:27:42]  Loading plugin: mysql
+[16:27:42]  >> plugin.mysql: R41-4 successfully loaded.
+[16:27:42]   Loaded.
+[16:27:42]  Loaded 5 plugins.
+
+[16:27:42] 
+[16:27:42] Filterscripts
+[16:27:42] ---------------
+[16:27:42]   Loading filterscript 'Switch.amx'...
+[16:27:42]   Loaded 1 filterscripts.
+
+[16:27:42]  
+[16:27:42]  ========================================== 
+[16:27:42]  |                                        | 
+[16:27:42]  |    Generating code, this may take a    | 
+[16:27:42]  |           little bit of time.          | 
+[16:27:42]  |                                        | 
+[16:27:42]  |             Please wait...             | 
+[16:27:42]  |                                        | 
+[16:27:42]  ========================================== 
+[16:27:42]  |                                        | 
+[16:27:42]  | Note that this code generation works   | 
+[16:27:42]  | best with the JIT plugin, which you    | 
+[16:27:42]  | are not currently using.  Get it here: | 
+[16:27:42]  |                                        | 
+[16:27:42]  |        https://git.io/jit-plugin       | 
+[16:27:42]  |                                        | 
+[16:27:42]  ========================================== 
+[16:27:42]  
+[16:27:42]  
+[16:27:42]  
+[16:27:42]  
+[16:27:42]  ========================================== 
+[16:27:42]  |                                        | 
+[16:27:42]  |         YSI version 5.05.0301          | 
+[16:27:42]  |         By Alex "Y_Less" Cole          | 
+[16:27:42]  |                                        | 
+[16:27:42]  | Unable to check the latest YSI version | 
+[16:27:42]  | - please watch the forums and github:  | 
+[16:27:42]  |                                        | 
+[16:27:42]  |   https://git.io/5.x                   | 
+[16:27:42]  |                                        | 
+[16:27:42]  ========================================== 
+[16:27:42]  
+[16:27:42] [MySQL] - Terkoneksi!
+[16:27:42] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:27:42] Number of vehicle models: 28
+[16:28:36] [connection] incoming connection: 127.0.0.1:54686 id: 0
+[16:28:36] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:29:00] [nick] Kazuji_Takashi nick changed to Takashi
+[16:29:31] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:30:55] password = ""  (string)
+[16:30:55] 
+[16:30:55] Server Plugins
+[16:30:55] --------------
+[16:30:55]  Loading plugin: sscanf
+[16:30:55] 
+
+[16:30:55]  ===============================
+
+[16:30:55]       sscanf plugin loaded.     
+
+[16:30:55]          Version:  2.8.3        
+
+[16:30:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:30:55]  ===============================
+
+[16:30:55]   Loaded.
+[16:30:55]  Loading plugin: irc
+[16:30:55] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:30:55]   Loaded.
+[16:30:55]  Loading plugin: streamer
+[16:30:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:30:55]   Loaded.
+[16:30:55]  Loading plugin: samp_bcrypt
+[16:30:55] [SampBcrypt] [info]: Version: 0.3.2
+[16:30:55]   Loaded.
+[16:30:55]  Loading plugin: mysql
+[16:30:55]  >> plugin.mysql: R41-4 successfully loaded.
+[16:30:55]   Loaded.
+[16:30:55]  Loaded 5 plugins.
+
+[16:30:55] 
+[16:30:55] Filterscripts
+[16:30:55] ---------------
+[16:30:55]   Loading filterscript 'Switch.amx'...
+[16:30:55]   Loaded 1 filterscripts.
+
+[16:30:55]  
+[16:30:55]  ========================================== 
+[16:30:55]  |                                        | 
+[16:30:55]  |    Generating code, this may take a    | 
+[16:30:55]  |           little bit of time.          | 
+[16:30:55]  |                                        | 
+[16:30:55]  |             Please wait...             | 
+[16:30:55]  |                                        | 
+[16:30:55]  ========================================== 
+[16:30:55]  |                                        | 
+[16:30:55]  | Note that this code generation works   | 
+[16:30:55]  | best with the JIT plugin, which you    | 
+[16:30:55]  | are not currently using.  Get it here: | 
+[16:30:55]  |                                        | 
+[16:30:55]  |        https://git.io/jit-plugin       | 
+[16:30:55]  |                                        | 
+[16:30:55]  ========================================== 
+[16:30:55]  
+[16:30:55]  
+[16:30:55]  
+[16:30:55]  
+[16:30:55]  ========================================== 
+[16:30:55]  |                                        | 
+[16:30:55]  |         YSI version 5.05.0301          | 
+[16:30:55]  |         By Alex "Y_Less" Cole          | 
+[16:30:55]  |                                        | 
+[16:30:55]  | Unable to check the latest YSI version | 
+[16:30:55]  | - please watch the forums and github:  | 
+[16:30:55]  |                                        | 
+[16:30:55]  |   https://git.io/5.x                   | 
+[16:30:55]  |                                        | 
+[16:30:55]  ========================================== 
+[16:30:55]  
+[16:30:55] [MySQL] - Terkoneksi!
+[16:30:55] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:30:55] Number of vehicle models: 28
+[16:31:58] [connection] incoming connection: 127.0.0.1:54628 id: 0
+[16:31:58] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:32:08] [part] Kazuji_Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:34:45] password = ""  (string)
+[16:34:45] 
+[16:34:45] Server Plugins
+[16:34:45] --------------
+[16:34:45]  Loading plugin: sscanf
+[16:34:45] 
+
+[16:34:45]  ===============================
+
+[16:34:45]       sscanf plugin loaded.     
+
+[16:34:45]          Version:  2.8.3        
+
+[16:34:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:34:45]  ===============================
+
+[16:34:45]   Loaded.
+[16:34:45]  Loading plugin: irc
+[16:34:45] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:34:45]   Loaded.
+[16:34:45]  Loading plugin: streamer
+[16:34:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:34:45]   Loaded.
+[16:34:45]  Loading plugin: samp_bcrypt
+[16:34:45] [SampBcrypt] [info]: Version: 0.3.2
+[16:34:45]   Loaded.
+[16:34:45]  Loading plugin: mysql
+[16:34:45]  >> plugin.mysql: R41-4 successfully loaded.
+[16:34:45]   Loaded.
+[16:34:45]  Loaded 5 plugins.
+
+[16:34:46] 
+[16:34:46] Filterscripts
+[16:34:46] ---------------
+[16:34:46]   Loading filterscript 'Switch.amx'...
+[16:34:46]   Loaded 1 filterscripts.
+
+[16:34:46]  
+[16:34:46]  ========================================== 
+[16:34:46]  |                                        | 
+[16:34:46]  |    Generating code, this may take a    | 
+[16:34:46]  |           little bit of time.          | 
+[16:34:46]  |                                        | 
+[16:34:46]  |             Please wait...             | 
+[16:34:46]  |                                        | 
+[16:34:46]  ========================================== 
+[16:34:46]  |                                        | 
+[16:34:46]  | Note that this code generation works   | 
+[16:34:46]  | best with the JIT plugin, which you    | 
+[16:34:46]  | are not currently using.  Get it here: | 
+[16:34:46]  |                                        | 
+[16:34:46]  |        https://git.io/jit-plugin       | 
+[16:34:46]  |                                        | 
+[16:34:46]  ========================================== 
+[16:34:46]  
+[16:34:46]  
+[16:34:46]  
+[16:34:46]  
+[16:34:46]  ========================================== 
+[16:34:46]  |                                        | 
+[16:34:46]  |         YSI version 5.05.0301          | 
+[16:34:46]  |         By Alex "Y_Less" Cole          | 
+[16:34:46]  |                                        | 
+[16:34:46]  | Unable to check the latest YSI version | 
+[16:34:46]  | - please watch the forums and github:  | 
+[16:34:46]  |                                        | 
+[16:34:46]  |   https://git.io/5.x                   | 
+[16:34:46]  |                                        | 
+[16:34:46]  ========================================== 
+[16:34:46]  
+[16:34:46] [MySQL] - Terkoneksi!
+[16:34:46] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:34:46] Number of vehicle models: 28
+[16:35:51] [connection] incoming connection: 127.0.0.1:50312 id: 0
+[16:35:51] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:36:16] [nick] Kazuji_Takashi nick changed to Takashi
+[16:36:51] [chat] [Takashi]: help
+[16:37:06] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:30:14] password = ""  (string)
+[11:30:14] 
+[11:30:14] Server Plugins
+[11:30:14] --------------
+[11:30:14]  Loading plugin: sscanf
+[11:30:14] 
+
+[11:30:14]  ===============================
+
+[11:30:14]       sscanf plugin loaded.     
+
+[11:30:14]          Version:  2.8.3        
+
+[11:30:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:30:14]  ===============================
+
+[11:30:14]   Loaded.
+[11:30:14]  Loading plugin: irc
+[11:30:14] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:30:14]   Loaded.
+[11:30:14]  Loading plugin: streamer
+[11:30:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:30:14]   Loaded.
+[11:30:14]  Loading plugin: samp_bcrypt
+[11:30:14] [SampBcrypt] [info]: Version: 0.3.2
+[11:30:14]   Loaded.
+[11:30:14]  Loading plugin: mysql
+[11:30:14]  >> plugin.mysql: R41-4 successfully loaded.
+[11:30:14]   Loaded.
+[11:30:14]  Loaded 5 plugins.
+
+[11:30:14] 
+[11:30:14] Filterscripts
+[11:30:14] ---------------
+[11:30:14]   Loading filterscript 'Switch.amx'...
+[11:30:14]   Loaded 1 filterscripts.
+
+[11:30:14]  
+[11:30:14]  ========================================== 
+[11:30:14]  |                                        | 
+[11:30:14]  |    Generating code, this may take a    | 
+[11:30:14]  |           little bit of time.          | 
+[11:30:14]  |                                        | 
+[11:30:14]  |             Please wait...             | 
+[11:30:14]  |                                        | 
+[11:30:14]  ========================================== 
+[11:30:14]  |                                        | 
+[11:30:14]  | Note that this code generation works   | 
+[11:30:14]  | best with the JIT plugin, which you    | 
+[11:30:14]  | are not currently using.  Get it here: | 
+[11:30:14]  |                                        | 
+[11:30:14]  |        https://git.io/jit-plugin       | 
+[11:30:14]  |                                        | 
+[11:30:14]  ========================================== 
+[11:30:14]  
+[11:30:14]  
+[11:30:14]  
+[11:30:14]  
+[11:30:14]  ========================================== 
+[11:30:14]  |                                        | 
+[11:30:14]  |         YSI version 5.05.0301          | 
+[11:30:14]  |         By Alex "Y_Less" Cole          | 
+[11:30:14]  |                                        | 
+[11:30:14]  | Unable to check the latest YSI version | 
+[11:30:14]  | - please watch the forums and github:  | 
+[11:30:14]  |                                        | 
+[11:30:14]  |   https://git.io/5.x                   | 
+[11:30:14]  |                                        | 
+[11:30:14]  ========================================== 
+[11:30:14]  
+[11:30:14] [MySQL] - Terkoneksi!
+[11:30:14] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:30:14] Number of vehicle models: 28
+[11:31:22] [connection] incoming connection: 127.0.0.1:49465 id: 0
+[11:31:23] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[11:31:34] [nick] Kazuji_Takashi nick changed to Takashi
+[11:32:04] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:33:59] password = ""  (string)
+[11:33:59] 
+[11:33:59] Server Plugins
+[11:33:59] --------------
+[11:33:59]  Loading plugin: sscanf
+[11:33:59] 
+
+[11:33:59]  ===============================
+
+[11:33:59]       sscanf plugin loaded.     
+
+[11:33:59]          Version:  2.8.3        
+
+[11:33:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:33:59]  ===============================
+
+[11:33:59]   Loaded.
+[11:33:59]  Loading plugin: irc
+[11:33:59] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:33:59]   Loaded.
+[11:33:59]  Loading plugin: streamer
+[11:33:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:33:59]   Loaded.
+[11:33:59]  Loading plugin: samp_bcrypt
+[11:33:59] [SampBcrypt] [info]: Version: 0.3.2
+[11:33:59]   Loaded.
+[11:33:59]  Loading plugin: mysql
+[11:34:00]  >> plugin.mysql: R41-4 successfully loaded.
+[11:34:00]   Loaded.
+[11:34:00]  Loaded 5 plugins.
+
+[11:34:00] 
+[11:34:00] Filterscripts
+[11:34:00] ---------------
+[11:34:00]   Loading filterscript 'Switch.amx'...
+[11:34:00]   Loaded 1 filterscripts.
+
+[11:34:00]  
+[11:34:00]  ========================================== 
+[11:34:00]  |                                        | 
+[11:34:00]  |    Generating code, this may take a    | 
+[11:34:00]  |           little bit of time.          | 
+[11:34:00]  |                                        | 
+[11:34:00]  |             Please wait...             | 
+[11:34:00]  |                                        | 
+[11:34:00]  ========================================== 
+[11:34:00]  |                                        | 
+[11:34:00]  | Note that this code generation works   | 
+[11:34:00]  | best with the JIT plugin, which you    | 
+[11:34:00]  | are not currently using.  Get it here: | 
+[11:34:00]  |                                        | 
+[11:34:00]  |        https://git.io/jit-plugin       | 
+[11:34:00]  |                                        | 
+[11:34:00]  ========================================== 
+[11:34:00]  
+[11:34:00]  
+[11:34:00]  
+[11:34:00]  
+[11:34:00]  ========================================== 
+[11:34:00]  |                                        | 
+[11:34:00]  |         YSI version 5.05.0301          | 
+[11:34:00]  |         By Alex "Y_Less" Cole          | 
+[11:34:00]  |                                        | 
+[11:34:00]  | Unable to check the latest YSI version | 
+[11:34:00]  | - please watch the forums and github:  | 
+[11:34:00]  |                                        | 
+[11:34:00]  |   https://git.io/5.x                   | 
+[11:34:00]  |                                        | 
+[11:34:00]  ========================================== 
+[11:34:00]  
+[11:34:00] [MySQL] - Terkoneksi!
+[11:34:00] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:34:00] Number of vehicle models: 28
+[11:34:49] [connection] incoming connection: 127.0.0.1:53387 id: 0
+[11:34:49] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[11:35:09] [nick] Kazuji_Takashi nick changed to Takashi
+[11:36:32] [nick] Takashi nick changed to Kazuji_Takashi
+[11:42:00] [death] Kazuji_Takashi died 54
+[11:44:03] [death] Kazuji_Takashi died 255
+[11:44:18] [part] Kazuji_Takashi has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:51:56] password = ""  (string)
+[11:51:56] 
+[11:51:56] Server Plugins
+[11:51:56] --------------
+[11:51:56]  Loading plugin: sscanf
+[11:51:56] 
+
+[11:51:56]  ===============================
+
+[11:51:56]       sscanf plugin loaded.     
+
+[11:51:56]          Version:  2.8.3        
+
+[11:51:56]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:51:56]  ===============================
+
+[11:51:56]   Loaded.
+[11:51:56]  Loading plugin: irc
+[11:51:56] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:51:56]   Loaded.
+[11:51:56]  Loading plugin: streamer
+[11:51:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:51:56]   Loaded.
+[11:51:56]  Loading plugin: samp_bcrypt
+[11:51:56] [SampBcrypt] [info]: Version: 0.3.2
+[11:51:56]   Loaded.
+[11:51:56]  Loading plugin: mysql
+[11:51:56]  >> plugin.mysql: R41-4 successfully loaded.
+[11:51:56]   Loaded.
+[11:51:56]  Loaded 5 plugins.
+
+[11:51:56] 
+[11:51:56] Filterscripts
+[11:51:56] ---------------
+[11:51:56]   Loading filterscript 'Switch.amx'...
+[11:51:56]   Loaded 1 filterscripts.
+
+[11:51:56]  
+[11:51:56]  ========================================== 
+[11:51:56]  |                                        | 
+[11:51:56]  |    Generating code, this may take a    | 
+[11:51:56]  |           little bit of time.          | 
+[11:51:56]  |                                        | 
+[11:51:56]  |             Please wait...             | 
+[11:51:56]  |                                        | 
+[11:51:56]  ========================================== 
+[11:51:56]  |                                        | 
+[11:51:56]  | Note that this code generation works   | 
+[11:51:56]  | best with the JIT plugin, which you    | 
+[11:51:56]  | are not currently using.  Get it here: | 
+[11:51:56]  |                                        | 
+[11:51:56]  |        https://git.io/jit-plugin       | 
+[11:51:56]  |                                        | 
+[11:51:56]  ========================================== 
+[11:51:56]  
+[11:51:56]  
+[11:51:56]  
+[11:51:56]  
+[11:51:56]  ========================================== 
+[11:51:56]  |                                        | 
+[11:51:56]  |         YSI version 5.05.0301          | 
+[11:51:56]  |         By Alex "Y_Less" Cole          | 
+[11:51:56]  |                                        | 
+[11:51:56]  | Unable to check the latest YSI version | 
+[11:51:56]  | - please watch the forums and github:  | 
+[11:51:56]  |                                        | 
+[11:51:56]  |   https://git.io/5.x                   | 
+[11:51:56]  |                                        | 
+[11:51:56]  ========================================== 
+[11:51:56]  
+[11:51:56] [MySQL] - Terkoneksi!
+[11:51:56] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:51:56] Number of vehicle models: 28
+[11:52:28] [connection] incoming connection: 127.0.0.1:54581 id: 0
+[11:52:29] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[11:52:40] [nick] Kazuji_Takashi nick changed to Takashi
+[11:55:02] [death] Takashi died 255
+[11:55:42] [part] Takashi has left the server (0:0)
+[11:55:51] [connection] incoming connection: 127.0.0.1:57715 id: 0
+[11:55:52] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[11:56:07] [nick] Kazuji_Takashi nick changed to Takashi
+[11:56:17] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:05:41] password = ""  (string)
+[12:05:41] 
+[12:05:41] Server Plugins
+[12:05:41] --------------
+[12:05:41]  Loading plugin: sscanf
+[12:05:41] 
+
+[12:05:41]  ===============================
+
+[12:05:41]       sscanf plugin loaded.     
+
+[12:05:41]          Version:  2.8.3        
+
+[12:05:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:05:41]  ===============================
+
+[12:05:41]   Loaded.
+[12:05:41]  Loading plugin: irc
+[12:05:41] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[12:05:41]   Loaded.
+[12:05:41]  Loading plugin: streamer
+[12:05:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:05:41]   Loaded.
+[12:05:41]  Loading plugin: samp_bcrypt
+[12:05:41] [SampBcrypt] [info]: Version: 0.3.2
+[12:05:41]   Loaded.
+[12:05:41]  Loading plugin: mysql
+[12:05:41]  >> plugin.mysql: R41-4 successfully loaded.
+[12:05:41]   Loaded.
+[12:05:41]  Loaded 5 plugins.
+
+[12:05:41] 
+[12:05:41] Filterscripts
+[12:05:41] ---------------
+[12:05:41]   Loading filterscript 'Switch.amx'...
+[12:05:41]   Loaded 1 filterscripts.
+
+[12:05:41]  
+[12:05:41]  ========================================== 
+[12:05:41]  |                                        | 
+[12:05:41]  |    Generating code, this may take a    | 
+[12:05:41]  |           little bit of time.          | 
+[12:05:41]  |                                        | 
+[12:05:41]  |             Please wait...             | 
+[12:05:41]  |                                        | 
+[12:05:41]  ========================================== 
+[12:05:41]  |                                        | 
+[12:05:41]  | Note that this code generation works   | 
+[12:05:41]  | best with the JIT plugin, which you    | 
+[12:05:41]  | are not currently using.  Get it here: | 
+[12:05:41]  |                                        | 
+[12:05:41]  |        https://git.io/jit-plugin       | 
+[12:05:41]  |                                        | 
+[12:05:41]  ========================================== 
+[12:05:41]  
+[12:05:41]  
+[12:05:41]  
+[12:05:41]  
+[12:05:41]  ========================================== 
+[12:05:41]  |                                        | 
+[12:05:41]  |         YSI version 5.05.0301          | 
+[12:05:41]  |         By Alex "Y_Less" Cole          | 
+[12:05:41]  |                                        | 
+[12:05:41]  | Unable to check the latest YSI version | 
+[12:05:41]  | - please watch the forums and github:  | 
+[12:05:41]  |                                        | 
+[12:05:41]  |   https://git.io/5.x                   | 
+[12:05:41]  |                                        | 
+[12:05:41]  ========================================== 
+[12:05:41]  
+[12:05:41] [MySQL] - Terkoneksi!
+[12:05:41] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[12:05:41] Number of vehicle models: 28
+[12:06:07] [connection] incoming connection: 127.0.0.1:58272 id: 0
+[12:06:07] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[12:06:27] [nick] Kazuji_Takashi nick changed to Takashi
+[12:09:17] [death] Takashi died 255
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:11:31] password = ""  (string)
+[12:11:31] 
+[12:11:31] Server Plugins
+[12:11:31] --------------
+[12:11:31]  Loading plugin: sscanf
+[12:11:31] 
+
+[12:11:31]  ===============================
+
+[12:11:31]       sscanf plugin loaded.     
+
+[12:11:31]          Version:  2.8.3        
+
+[12:11:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:11:31]  ===============================
+
+[12:11:31]   Loaded.
+[12:11:31]  Loading plugin: irc
+[12:11:31] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[12:11:31]   Loaded.
+[12:11:31]  Loading plugin: streamer
+[12:11:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:11:31]   Loaded.
+[12:11:31]  Loading plugin: samp_bcrypt
+[12:11:31] [SampBcrypt] [info]: Version: 0.3.2
+[12:11:31]   Loaded.
+[12:11:31]  Loading plugin: mysql
+[12:11:31]  >> plugin.mysql: R41-4 successfully loaded.
+[12:11:31]   Loaded.
+[12:11:31]  Loaded 5 plugins.
+
+[12:11:31] 
+[12:11:31] Filterscripts
+[12:11:31] ---------------
+[12:11:31]   Loading filterscript 'Switch.amx'...
+[12:11:31]   Loaded 1 filterscripts.
+
+[12:11:31]  
+[12:11:31]  ========================================== 
+[12:11:31]  |                                        | 
+[12:11:31]  |    Generating code, this may take a    | 
+[12:11:31]  |           little bit of time.          | 
+[12:11:31]  |                                        | 
+[12:11:31]  |             Please wait...             | 
+[12:11:31]  |                                        | 
+[12:11:31]  ========================================== 
+[12:11:31]  |                                        | 
+[12:11:31]  | Note that this code generation works   | 
+[12:11:31]  | best with the JIT plugin, which you    | 
+[12:11:31]  | are not currently using.  Get it here: | 
+[12:11:31]  |                                        | 
+[12:11:31]  |        https://git.io/jit-plugin       | 
+[12:11:31]  |                                        | 
+[12:11:31]  ========================================== 
+[12:11:31]  
+[12:11:31]  
+[12:11:31]  
+[12:11:31]  
+[12:11:31]  ========================================== 
+[12:11:31]  |                                        | 
+[12:11:31]  |         YSI version 5.05.0301          | 
+[12:11:31]  |         By Alex "Y_Less" Cole          | 
+[12:11:31]  |                                        | 
+[12:11:31]  | Unable to check the latest YSI version | 
+[12:11:31]  | - please watch the forums and github:  | 
+[12:11:31]  |                                        | 
+[12:11:31]  |   https://git.io/5.x                   | 
+[12:11:31]  |                                        | 
+[12:11:31]  ========================================== 
+[12:11:31]  
+[12:11:31] [MySQL] - Terkoneksi!
+[12:11:31] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[12:11:31] Number of vehicle models: 28
+[12:11:56] [connection] incoming connection: 127.0.0.1:52209 id: 0
+[12:11:56] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[12:12:07] [nick] Kazuji_Takashi nick changed to Takashi
+[12:12:32] [chat] [Takashi]: nih dah gw tambahin bbrapa cmd
+[12:12:38] [nick] Takashi nick changed to Kazuji_Takashi
+[12:13:16] [chat] [Kazuji_Takashi]: ini gm masih di versi beta ya wajar kalo da abug.
+[12:13:33] [chat] [Kazuji_Takashi]: ini cara merebut zone
+[12:15:13] [part] Kazuji_Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:22:55] password = ""  (string)
+[23:22:55] 
+[23:22:55] Server Plugins
+[23:22:55] --------------
+[23:22:55]  Loading plugin: sscanf
+[23:22:55] 
+
+[23:22:55]  ===============================
+
+[23:22:55]       sscanf plugin loaded.     
+
+[23:22:55]          Version:  2.8.3        
+
+[23:22:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:22:55]  ===============================
+
+[23:22:55]   Loaded.
+[23:22:55]  Loading plugin: irc
+[23:22:55] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[23:22:55]   Loaded.
+[23:22:55]  Loading plugin: streamer
+[23:22:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:22:55]   Loaded.
+[23:22:55]  Loading plugin: samp_bcrypt
+[23:22:55] [SampBcrypt] [info]: Version: 0.3.2
+[23:22:55]   Loaded.
+[23:22:55]  Loading plugin: mysql
+[23:22:55]  >> plugin.mysql: R41-4 successfully loaded.
+[23:22:55]   Loaded.
+[23:22:55]  Loaded 5 plugins.
+
+[23:22:55] 
+[23:22:55] Filterscripts
+[23:22:55] ---------------
+[23:22:55]   Loading filterscript 'Switch.amx'...
+[23:22:55]   Loaded 1 filterscripts.
+
+[23:22:55]  
+[23:22:55]  ========================================== 
+[23:22:55]  |                                        | 
+[23:22:55]  |    Generating code, this may take a    | 
+[23:22:55]  |           little bit of time.          | 
+[23:22:55]  |                                        | 
+[23:22:55]  |             Please wait...             | 
+[23:22:55]  |                                        | 
+[23:22:55]  ========================================== 
+[23:22:55]  |                                        | 
+[23:22:55]  | Note that this code generation works   | 
+[23:22:55]  | best with the JIT plugin, which you    | 
+[23:22:55]  | are not currently using.  Get it here: | 
+[23:22:55]  |                                        | 
+[23:22:55]  |        https://git.io/jit-plugin       | 
+[23:22:55]  |                                        | 
+[23:22:55]  ========================================== 
+[23:22:55]  
+[23:22:55]  
+[23:22:55]  
+[23:22:55]  
+[23:22:55]  ========================================== 
+[23:22:55]  |                                        | 
+[23:22:55]  |         YSI version 5.05.0301          | 
+[23:22:55]  |         By Alex "Y_Less" Cole          | 
+[23:22:55]  |                                        | 
+[23:22:55]  | Unable to check the latest YSI version | 
+[23:22:55]  | - please watch the forums and github:  | 
+[23:22:55]  |                                        | 
+[23:22:55]  |   https://git.io/5.x                   | 
+[23:22:55]  |                                        | 
+[23:22:55]  ========================================== 
+[23:22:55]  
+[23:22:55] [MySQL] - Terkoneksi!
+[23:22:55] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[23:22:55] Number of vehicle models: 28
+[23:23:16] [connection] incoming connection: 127.0.0.1:49723 id: 0
+[23:23:17] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[23:23:31] [nick] Kazuji_Takashi nick changed to Takashi
+[23:25:09] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:40:09] password = ""  (string)
+[16:40:09] 
+[16:40:09] Server Plugins
+[16:40:09] --------------
+[16:40:09]  Loading plugin: sscanf
+[16:40:09] 
+
+[16:40:09]  ===============================
+
+[16:40:09]       sscanf plugin loaded.     
+
+[16:40:09]          Version:  2.8.3        
+
+[16:40:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:40:09]  ===============================
+
+[16:40:09]   Loaded.
+[16:40:09]  Loading plugin: irc
+[16:40:09] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:40:09]   Loaded.
+[16:40:09]  Loading plugin: streamer
+[16:40:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:40:09]   Loaded.
+[16:40:09]  Loading plugin: samp_bcrypt
+[16:40:10] [SampBcrypt] [info]: Version: 0.3.2
+[16:40:10]   Loaded.
+[16:40:10]  Loading plugin: mysql
+[16:40:10]  >> plugin.mysql: R41-4 successfully loaded.
+[16:40:10]   Loaded.
+[16:40:10]  Loaded 5 plugins.
+
+[16:40:10] 
+[16:40:10] Filterscripts
+[16:40:10] ---------------
+[16:40:10]   Loading filterscript 'Switch.amx'...
+[16:40:10]   Unable to load filterscript 'Switch.amx'.
+[16:40:10]   Loaded 0 filterscripts.
+
+[16:40:10]  
+[16:40:10]  ========================================== 
+[16:40:10]  |                                        | 
+[16:40:10]  |    Generating code, this may take a    | 
+[16:40:10]  |           little bit of time.          | 
+[16:40:10]  |                                        | 
+[16:40:10]  |             Please wait...             | 
+[16:40:10]  |                                        | 
+[16:40:10]  ========================================== 
+[16:40:10]  |                                        | 
+[16:40:10]  | Note that this code generation works   | 
+[16:40:10]  | best with the JIT plugin, which you    | 
+[16:40:10]  | are not currently using.  Get it here: | 
+[16:40:10]  |                                        | 
+[16:40:10]  |        https://git.io/jit-plugin       | 
+[16:40:10]  |                                        | 
+[16:40:10]  ========================================== 
+[16:40:10]  
+[16:40:10]  
+[16:40:10]  
+[16:40:10]  
+[16:40:10]  ========================================== 
+[16:40:10]  |                                        | 
+[16:40:10]  |         YSI version 5.05.0301          | 
+[16:40:10]  |         By Alex "Y_Less" Cole          | 
+[16:40:10]  |                                        | 
+[16:40:10]  | Unable to check the latest YSI version | 
+[16:40:10]  | - please watch the forums and github:  | 
+[16:40:10]  |                                        | 
+[16:40:10]  |   https://git.io/5.x                   | 
+[16:40:10]  |                                        | 
+[16:40:10]  ========================================== 
+[16:40:10]  
+[16:40:10] [MySQL] - Terkoneksi!
+[16:40:10] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:40:10] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:43:32] password = ""  (string)
+[16:43:32] 
+[16:43:32] Server Plugins
+[16:43:32] --------------
+[16:43:32]  Loading plugin: sscanf
+[16:43:32] 
+
+[16:43:32]  ===============================
+
+[16:43:32]       sscanf plugin loaded.     
+
+[16:43:32]          Version:  2.8.3        
+
+[16:43:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:43:32]  ===============================
+
+[16:43:32]   Loaded.
+[16:43:32]  Loading plugin: irc
+[16:43:32] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:43:32]   Loaded.
+[16:43:32]  Loading plugin: streamer
+[16:43:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:43:32]   Loaded.
+[16:43:32]  Loading plugin: samp_bcrypt
+[16:43:32] [SampBcrypt] [info]: Version: 0.3.2
+[16:43:32]   Loaded.
+[16:43:32]  Loading plugin: mysql
+[16:43:32]  >> plugin.mysql: R41-4 successfully loaded.
+[16:43:32]   Loaded.
+[16:43:32]  Loaded 5 plugins.
+
+[16:43:32] 
+[16:43:32] Filterscripts
+[16:43:32] ---------------
+[16:43:32]   Loading filterscript 'Switch.amx'...
+[16:43:32]   Unable to load filterscript 'Switch.amx'.
+[16:43:32]   Loaded 0 filterscripts.
+
+[16:43:32]  
+[16:43:32]  ========================================== 
+[16:43:32]  |                                        | 
+[16:43:32]  |    Generating code, this may take a    | 
+[16:43:32]  |           little bit of time.          | 
+[16:43:32]  |                                        | 
+[16:43:32]  |             Please wait...             | 
+[16:43:32]  |                                        | 
+[16:43:32]  ========================================== 
+[16:43:32]  |                                        | 
+[16:43:32]  | Note that this code generation works   | 
+[16:43:32]  | best with the JIT plugin, which you    | 
+[16:43:32]  | are not currently using.  Get it here: | 
+[16:43:32]  |                                        | 
+[16:43:32]  |        https://git.io/jit-plugin       | 
+[16:43:32]  |                                        | 
+[16:43:32]  ========================================== 
+[16:43:32]  
+[16:43:32]  
+[16:43:32]  
+[16:43:32]  
+[16:43:32]  ========================================== 
+[16:43:32]  |                                        | 
+[16:43:32]  |         YSI version 5.05.0301          | 
+[16:43:32]  |         By Alex "Y_Less" Cole          | 
+[16:43:32]  |                                        | 
+[16:43:32]  | Unable to check the latest YSI version | 
+[16:43:32]  | - please watch the forums and github:  | 
+[16:43:32]  |                                        | 
+[16:43:32]  |   https://git.io/5.x                   | 
+[16:43:32]  |                                        | 
+[16:43:32]  ========================================== 
+[16:43:32]  
+[16:43:32] [MySQL] - Terkoneksi!
+[16:43:32] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:43:32] Number of vehicle models: 28
+[16:44:10] [connection] incoming connection: 127.0.0.1:53757 id: 0
+[16:44:10] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:44:28] [part] Kazuji_Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:44:47] password = ""  (string)
+[16:44:47] 
+[16:44:47] Server Plugins
+[16:44:47] --------------
+[16:44:47]  Loading plugin: sscanf
+[16:44:47] 
+
+[16:44:47]  ===============================
+
+[16:44:47]       sscanf plugin loaded.     
+
+[16:44:47]          Version:  2.8.3        
+
+[16:44:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:44:47]  ===============================
+
+[16:44:47]   Loaded.
+[16:44:47]  Loading plugin: irc
+[16:44:47] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[16:44:47]   Loaded.
+[16:44:47]  Loading plugin: streamer
+[16:44:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:44:47]   Loaded.
+[16:44:47]  Loading plugin: samp_bcrypt
+[16:44:47] [SampBcrypt] [info]: Version: 0.3.2
+[16:44:47]   Loaded.
+[16:44:47]  Loading plugin: mysql
+[16:44:47]  >> plugin.mysql: R41-4 successfully loaded.
+[16:44:47]   Loaded.
+[16:44:47]  Loaded 5 plugins.
+
+[16:44:47] 
+[16:44:47] Filterscripts
+[16:44:47] ---------------
+[16:44:47]   Loading filterscript 'Switch.amx'...
+[16:44:47]   Unable to load filterscript 'Switch.amx'.
+[16:44:47]   Loaded 0 filterscripts.
+
+[16:44:47]  
+[16:44:47]  ========================================== 
+[16:44:47]  |                                        | 
+[16:44:47]  |    Generating code, this may take a    | 
+[16:44:47]  |           little bit of time.          | 
+[16:44:47]  |                                        | 
+[16:44:47]  |             Please wait...             | 
+[16:44:47]  |                                        | 
+[16:44:47]  ========================================== 
+[16:44:47]  |                                        | 
+[16:44:47]  | Note that this code generation works   | 
+[16:44:47]  | best with the JIT plugin, which you    | 
+[16:44:47]  | are not currently using.  Get it here: | 
+[16:44:47]  |                                        | 
+[16:44:47]  |        https://git.io/jit-plugin       | 
+[16:44:47]  |                                        | 
+[16:44:47]  ========================================== 
+[16:44:47]  
+[16:44:47]  
+[16:44:47]  
+[16:44:47]  
+[16:44:47]  ========================================== 
+[16:44:47]  |                                        | 
+[16:44:47]  |         YSI version 5.05.0301          | 
+[16:44:47]  |         By Alex "Y_Less" Cole          | 
+[16:44:47]  |                                        | 
+[16:44:47]  | Unable to check the latest YSI version | 
+[16:44:47]  | - please watch the forums and github:  | 
+[16:44:47]  |                                        | 
+[16:44:47]  |   https://git.io/5.x                   | 
+[16:44:47]  |                                        | 
+[16:44:47]  ========================================== 
+[16:44:47]  
+[16:44:47] [MySQL] - Terkoneksi!
+[16:44:47] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:44:47] Number of vehicle models: 28
+[16:49:12] [connection] incoming connection: 127.0.0.1:62036 id: 0
+[16:49:12] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:49:23] [part] Kazuji_Takashi has left the server (0:2)
+[16:52:49] [connection] incoming connection: 127.0.0.1:60885 id: 0
+[16:52:49] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[16:52:58] [nick] Kazuji_Takashi nick changed to Takashi
+[16:53:31] [nick] Takashi nick changed to Kazuji_Takashi
+[16:54:51] [part] Kazuji_Takashi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:11:41] password = ""  (string)
+[17:11:41] 
+[17:11:41] Server Plugins
+[17:11:41] --------------
+[17:11:41]  Loading plugin: sscanf
+[17:11:41] 
+
+[17:11:41]  ===============================
+
+[17:11:41]       sscanf plugin loaded.     
+
+[17:11:41]          Version:  2.8.3        
+
+[17:11:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:11:41]  ===============================
+
+[17:11:41]   Loaded.
+[17:11:41]  Loading plugin: irc
+[17:11:41] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[17:11:41]   Loaded.
+[17:11:41]  Loading plugin: streamer
+[17:11:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:11:41]   Loaded.
+[17:11:41]  Loading plugin: samp_bcrypt
+[17:11:41] [SampBcrypt] [info]: Version: 0.3.2
+[17:11:41]   Loaded.
+[17:11:41]  Loading plugin: mysql
+[17:11:41]  >> plugin.mysql: R41-4 successfully loaded.
+[17:11:41]   Loaded.
+[17:11:41]  Loaded 5 plugins.
+
+[17:11:41] 
+[17:11:41] Filterscripts
+[17:11:41] ---------------
+[17:11:41]   Loading filterscript 'Switch.amx'...
+[17:11:41]   Unable to load filterscript 'Switch.amx'.
+[17:11:41]   Loaded 0 filterscripts.
+
+[17:11:41]  
+[17:11:41]  ========================================== 
+[17:11:41]  |                                        | 
+[17:11:41]  |    Generating code, this may take a    | 
+[17:11:41]  |           little bit of time.          | 
+[17:11:41]  |                                        | 
+[17:11:41]  |             Please wait...             | 
+[17:11:41]  |                                        | 
+[17:11:41]  ========================================== 
+[17:11:41]  |                                        | 
+[17:11:41]  | Note that this code generation works   | 
+[17:11:41]  | best with the JIT plugin, which you    | 
+[17:11:41]  | are not currently using.  Get it here: | 
+[17:11:41]  |                                        | 
+[17:11:41]  |        https://git.io/jit-plugin       | 
+[17:11:41]  |                                        | 
+[17:11:41]  ========================================== 
+[17:11:41]  
+[17:11:41]  
+[17:11:41]  
+[17:11:41]  
+[17:11:41]  ========================================== 
+[17:11:41]  |                                        | 
+[17:11:41]  |         YSI version 5.05.0301          | 
+[17:11:41]  |         By Alex "Y_Less" Cole          | 
+[17:11:41]  |                                        | 
+[17:11:41]  | Unable to check the latest YSI version | 
+[17:11:41]  | - please watch the forums and github:  | 
+[17:11:41]  |                                        | 
+[17:11:41]  |   https://git.io/5.x                   | 
+[17:11:41]  |                                        | 
+[17:11:41]  ========================================== 
+[17:11:41]  
+[17:11:41] [MySQL] - Terkoneksi!
+[17:11:41] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:11:41] Number of vehicle models: 28
+[17:13:50] [connection] incoming connection: 127.0.0.1:63204 id: 0
+[17:13:50] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[17:14:03] [nick] Kazuji_Takashi nick changed to Takashi
+[17:18:11] [part] Takashi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:09:30] password = ""  (string)
+[10:09:30] 
+[10:09:30] Server Plugins
+[10:09:30] --------------
+[10:09:30]  Loading plugin: sscanf
+[10:09:31] 
+
+[10:09:31]  ===============================
+
+[10:09:31]       sscanf plugin loaded.     
+
+[10:09:31]          Version:  2.8.3        
+
+[10:09:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:09:31]  ===============================
+
+[10:09:31]   Loaded.
+[10:09:31]  Loading plugin: irc
+[10:09:31] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[10:09:31]   Loaded.
+[10:09:31]  Loading plugin: streamer
+[10:09:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:09:31]   Loaded.
+[10:09:31]  Loading plugin: samp_bcrypt
+[10:09:31] [SampBcrypt] [info]: Version: 0.3.2
+[10:09:31]   Loaded.
+[10:09:31]  Loading plugin: mysql
+[10:09:31]  >> plugin.mysql: R41-4 successfully loaded.
+[10:09:31]   Loaded.
+[10:09:31]  Loaded 5 plugins.
+
+[10:09:31] 
+[10:09:31] Filterscripts
+[10:09:31] ---------------
+[10:09:31]   Loading filterscript 'Switch.amx'...
+[10:09:31]   Unable to load filterscript 'Switch.amx'.
+[10:09:31]   Loaded 0 filterscripts.
+
+[10:09:31]  
+[10:09:31]  ========================================== 
+[10:09:31]  |                                        | 
+[10:09:31]  |    Generating code, this may take a    | 
+[10:09:31]  |           little bit of time.          | 
+[10:09:31]  |                                        | 
+[10:09:31]  |             Please wait...             | 
+[10:09:31]  |                                        | 
+[10:09:31]  ========================================== 
+[10:09:31]  |                                        | 
+[10:09:31]  | Note that this code generation works   | 
+[10:09:31]  | best with the JIT plugin, which you    | 
+[10:09:31]  | are not currently using.  Get it here: | 
+[10:09:31]  |                                        | 
+[10:09:31]  |        https://git.io/jit-plugin       | 
+[10:09:31]  |                                        | 
+[10:09:31]  ========================================== 
+[10:09:31]  
+[10:09:31]  
+[10:09:31]  
+[10:09:31]  
+[10:09:31]  ========================================== 
+[10:09:31]  |                                        | 
+[10:09:31]  |         YSI version 5.05.0301          | 
+[10:09:31]  |         By Alex "Y_Less" Cole          | 
+[10:09:31]  |                                        | 
+[10:09:31]  | Unable to check the latest YSI version | 
+[10:09:31]  | - please watch the forums and github:  | 
+[10:09:31]  |                                        | 
+[10:09:31]  |   https://git.io/5.x                   | 
+[10:09:31]  |                                        | 
+[10:09:31]  ========================================== 
+[10:09:31]  
+[10:09:31] [MySQL] - Terkoneksi!
+[10:09:31] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[10:09:31] Number of vehicle models: 28
+[10:10:21] [connection] incoming connection: 127.0.0.1:57035 id: 0
+[10:10:21] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[10:10:30] [nick] Kazuji_Takashi nick changed to Takashi
+[10:13:27] [part] Takashi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:09:15] password = ""  (string)
+[11:09:15] 
+[11:09:15] Server Plugins
+[11:09:15] --------------
+[11:09:15]  Loading plugin: sscanf
+[11:09:15] 
+
+[11:09:15]  ===============================
+
+[11:09:15]       sscanf plugin loaded.     
+
+[11:09:15]          Version:  2.8.3        
+
+[11:09:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:09:15]  ===============================
+
+[11:09:15]   Loaded.
+[11:09:15]  Loading plugin: irc
+[11:09:15] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:09:15]   Loaded.
+[11:09:15]  Loading plugin: streamer
+[11:09:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:09:15]   Loaded.
+[11:09:15]  Loading plugin: samp_bcrypt
+[11:09:15] [SampBcrypt] [info]: Version: 0.3.2
+[11:09:15]   Loaded.
+[11:09:15]  Loading plugin: mysql
+[11:09:15]  >> plugin.mysql: R41-4 successfully loaded.
+[11:09:15]   Loaded.
+[11:09:15]  Loaded 5 plugins.
+
+[11:09:16] 
+[11:09:16] Filterscripts
+[11:09:16] ---------------
+[11:09:16]   Loading filterscript 'Switch.amx'...
+[11:09:16]   Unable to load filterscript 'Switch.amx'.
+[11:09:16]   Loaded 0 filterscripts.
+
+[11:09:16]  
+[11:09:16]  ========================================== 
+[11:09:16]  |                                        | 
+[11:09:16]  |    Generating code, this may take a    | 
+[11:09:16]  |           little bit of time.          | 
+[11:09:16]  |                                        | 
+[11:09:16]  |             Please wait...             | 
+[11:09:16]  |                                        | 
+[11:09:16]  ========================================== 
+[11:09:16]  |                                        | 
+[11:09:16]  | Note that this code generation works   | 
+[11:09:16]  | best with the JIT plugin, which you    | 
+[11:09:16]  | are not currently using.  Get it here: | 
+[11:09:16]  |                                        | 
+[11:09:16]  |        https://git.io/jit-plugin       | 
+[11:09:16]  |                                        | 
+[11:09:16]  ========================================== 
+[11:09:16]  
+[11:09:16]  
+[11:09:16]  
+[11:09:16]  
+[11:09:16]  ========================================== 
+[11:09:16]  |                                        | 
+[11:09:16]  |         YSI version 5.05.0301          | 
+[11:09:16]  |         By Alex "Y_Less" Cole          | 
+[11:09:16]  |                                        | 
+[11:09:16]  | Unable to check the latest YSI version | 
+[11:09:16]  | - please watch the forums and github:  | 
+[11:09:16]  |                                        | 
+[11:09:16]  |   https://git.io/5.x                   | 
+[11:09:16]  |                                        | 
+[11:09:16]  ========================================== 
+[11:09:16]  
+[11:09:16] [MySQL] - Terkoneksi!
+[11:09:16] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:09:16] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:10:07] password = ""  (string)
+[11:10:07] 
+[11:10:07] Server Plugins
+[11:10:07] --------------
+[11:10:07]  Loading plugin: sscanf
+[11:10:07] 
+
+[11:10:07]  ===============================
+
+[11:10:07]       sscanf plugin loaded.     
+
+[11:10:07]          Version:  2.8.3        
+
+[11:10:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:10:07]  ===============================
+
+[11:10:07]   Loaded.
+[11:10:07]  Loading plugin: irc
+[11:10:07] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:10:07]   Loaded.
+[11:10:07]  Loading plugin: streamer
+[11:10:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:10:07]   Loaded.
+[11:10:07]  Loading plugin: samp_bcrypt
+[11:10:07] [SampBcrypt] [info]: Version: 0.3.2
+[11:10:07]   Loaded.
+[11:10:07]  Loading plugin: mysql
+[11:10:07]  >> plugin.mysql: R41-4 successfully loaded.
+[11:10:07]   Loaded.
+[11:10:07]  Loaded 5 plugins.
+
+[11:10:07] 
+[11:10:07] Filterscripts
+[11:10:07] ---------------
+[11:10:07]   Loading filterscript 'Switch.amx'...
+[11:10:07]   Unable to load filterscript 'Switch.amx'.
+[11:10:07]   Loaded 0 filterscripts.
+
+[11:10:07]  
+[11:10:07]  ========================================== 
+[11:10:07]  |                                        | 
+[11:10:07]  |    Generating code, this may take a    | 
+[11:10:07]  |           little bit of time.          | 
+[11:10:07]  |                                        | 
+[11:10:07]  |             Please wait...             | 
+[11:10:07]  |                                        | 
+[11:10:07]  ========================================== 
+[11:10:07]  |                                        | 
+[11:10:07]  | Note that this code generation works   | 
+[11:10:07]  | best with the JIT plugin, which you    | 
+[11:10:07]  | are not currently using.  Get it here: | 
+[11:10:07]  |                                        | 
+[11:10:07]  |        https://git.io/jit-plugin       | 
+[11:10:07]  |                                        | 
+[11:10:07]  ========================================== 
+[11:10:07]  
+[11:10:07]  
+[11:10:07]  
+[11:10:07]  
+[11:10:07]  ========================================== 
+[11:10:07]  |                                        | 
+[11:10:07]  |         YSI version 5.05.0301          | 
+[11:10:07]  |         By Alex "Y_Less" Cole          | 
+[11:10:07]  |                                        | 
+[11:10:07]  | Unable to check the latest YSI version | 
+[11:10:07]  | - please watch the forums and github:  | 
+[11:10:07]  |                                        | 
+[11:10:07]  |   https://git.io/5.x                   | 
+[11:10:07]  |                                        | 
+[11:10:07]  ========================================== 
+[11:10:07]  
+[11:10:07] [MySQL] - Terkoneksi!
+[11:10:07] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:10:07] Number of vehicle models: 28
+[11:10:45] [connection] incoming connection: 127.0.0.1:63701 id: 0
+[11:10:45] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[11:11:09] [nick] Kazuji_Takashi nick changed to Takashi
+[11:13:34] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:15:33] password = ""  (string)
+[11:15:33] 
+[11:15:33] Server Plugins
+[11:15:33] --------------
+[11:15:33]  Loading plugin: sscanf
+[11:15:33] 
+
+[11:15:33]  ===============================
+
+[11:15:33]       sscanf plugin loaded.     
+
+[11:15:33]          Version:  2.8.3        
+
+[11:15:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:15:33]  ===============================
+
+[11:15:33]   Loaded.
+[11:15:33]  Loading plugin: irc
+[11:15:33] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:15:33]   Loaded.
+[11:15:33]  Loading plugin: streamer
+[11:15:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:15:33]   Loaded.
+[11:15:33]  Loading plugin: samp_bcrypt
+[11:15:33] [SampBcrypt] [info]: Version: 0.3.2
+[11:15:33]   Loaded.
+[11:15:33]  Loading plugin: mysql
+[11:15:33]  >> plugin.mysql: R41-4 successfully loaded.
+[11:15:33]   Loaded.
+[11:15:33]  Loaded 5 plugins.
+
+[11:15:33] 
+[11:15:33] Filterscripts
+[11:15:33] ---------------
+[11:15:33]   Loading filterscript 'Switch.amx'...
+[11:15:33]   Unable to load filterscript 'Switch.amx'.
+[11:15:33]   Loaded 0 filterscripts.
+
+[11:15:33]  
+[11:15:33]  ========================================== 
+[11:15:33]  |                                        | 
+[11:15:33]  |    Generating code, this may take a    | 
+[11:15:33]  |           little bit of time.          | 
+[11:15:33]  |                                        | 
+[11:15:33]  |             Please wait...             | 
+[11:15:33]  |                                        | 
+[11:15:33]  ========================================== 
+[11:15:33]  |                                        | 
+[11:15:33]  | Note that this code generation works   | 
+[11:15:33]  | best with the JIT plugin, which you    | 
+[11:15:33]  | are not currently using.  Get it here: | 
+[11:15:33]  |                                        | 
+[11:15:33]  |        https://git.io/jit-plugin       | 
+[11:15:33]  |                                        | 
+[11:15:33]  ========================================== 
+[11:15:33]  
+[11:15:33]  
+[11:15:33]  
+[11:15:33]  
+[11:15:33]  ========================================== 
+[11:15:33]  |                                        | 
+[11:15:33]  |         YSI version 5.05.0301          | 
+[11:15:33]  |         By Alex "Y_Less" Cole          | 
+[11:15:33]  |                                        | 
+[11:15:33]  | Unable to check the latest YSI version | 
+[11:15:33]  | - please watch the forums and github:  | 
+[11:15:33]  |                                        | 
+[11:15:33]  |   https://git.io/5.x                   | 
+[11:15:33]  |                                        | 
+[11:15:33]  ========================================== 
+[11:15:33]  
+[11:15:33] [MySQL] - Terkoneksi!
+[11:15:33] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:15:33] Number of vehicle models: 28
+[11:16:10] [connection] incoming connection: 127.0.0.1:53603 id: 0
+[11:16:11] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[11:16:23] [nick] Kazuji_Takashi nick changed to Takashi
+[11:18:33] [chat] [Takashi]: slap 0
+[11:23:29] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:27:55] password = ""  (string)
+[11:27:55] 
+[11:27:55] Server Plugins
+[11:27:55] --------------
+[11:27:55]  Loading plugin: sscanf
+[11:27:55] 
+
+[11:27:55]  ===============================
+
+[11:27:55]       sscanf plugin loaded.     
+
+[11:27:55]          Version:  2.8.3        
+
+[11:27:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:27:55]  ===============================
+
+[11:27:55]   Loaded.
+[11:27:55]  Loading plugin: irc
+[11:27:55] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:27:55]   Loaded.
+[11:27:55]  Loading plugin: streamer
+[11:27:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:27:55]   Loaded.
+[11:27:55]  Loading plugin: samp_bcrypt
+[11:27:55] [SampBcrypt] [info]: Version: 0.3.2
+[11:27:55]   Loaded.
+[11:27:55]  Loading plugin: mysql
+[11:27:55]  >> plugin.mysql: R41-4 successfully loaded.
+[11:27:55]   Loaded.
+[11:27:55]  Loaded 5 plugins.
+
+[11:27:55] 
+[11:27:55] Filterscripts
+[11:27:55] ---------------
+[11:27:55]   Loading filterscript 'Switch.amx'...
+[11:27:55]   Unable to load filterscript 'Switch.amx'.
+[11:27:55]   Loaded 0 filterscripts.
+
+[11:27:55]  
+[11:27:55]  ========================================== 
+[11:27:55]  |                                        | 
+[11:27:55]  |    Generating code, this may take a    | 
+[11:27:55]  |           little bit of time.          | 
+[11:27:55]  |                                        | 
+[11:27:55]  |             Please wait...             | 
+[11:27:55]  |                                        | 
+[11:27:55]  ========================================== 
+[11:27:55]  |                                        | 
+[11:27:55]  | Note that this code generation works   | 
+[11:27:55]  | best with the JIT plugin, which you    | 
+[11:27:55]  | are not currently using.  Get it here: | 
+[11:27:55]  |                                        | 
+[11:27:55]  |        https://git.io/jit-plugin       | 
+[11:27:55]  |                                        | 
+[11:27:55]  ========================================== 
+[11:27:55]  
+[11:27:55]  
+[11:27:55]  
+[11:27:55]  
+[11:27:55]  ========================================== 
+[11:27:55]  |                                        | 
+[11:27:55]  |         YSI version 5.05.0301          | 
+[11:27:55]  |         By Alex "Y_Less" Cole          | 
+[11:27:55]  |                                        | 
+[11:27:55]  | Unable to check the latest YSI version | 
+[11:27:55]  | - please watch the forums and github:  | 
+[11:27:55]  |                                        | 
+[11:27:55]  |   https://git.io/5.x                   | 
+[11:27:55]  |                                        | 
+[11:27:55]  ========================================== 
+[11:27:55]  
+[11:27:55] [MySQL] - Terkoneksi!
+[11:27:55] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:27:55] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:28:25] password = ""  (string)
+[11:28:25] 
+[11:28:25] Server Plugins
+[11:28:25] --------------
+[11:28:25]  Loading plugin: sscanf
+[11:28:25] 
+
+[11:28:25]  ===============================
+
+[11:28:25]       sscanf plugin loaded.     
+
+[11:28:25]          Version:  2.8.3        
+
+[11:28:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:28:25]  ===============================
+
+[11:28:25]   Loaded.
+[11:28:25]  Loading plugin: irc
+[11:28:25] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:28:25]   Loaded.
+[11:28:25]  Loading plugin: streamer
+[11:28:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:28:25]   Loaded.
+[11:28:25]  Loading plugin: samp_bcrypt
+[11:28:25] [SampBcrypt] [info]: Version: 0.3.2
+[11:28:25]   Loaded.
+[11:28:25]  Loading plugin: mysql
+[11:28:25]  >> plugin.mysql: R41-4 successfully loaded.
+[11:28:25]   Loaded.
+[11:28:25]  Loaded 5 plugins.
+
+[11:28:25] 
+[11:28:25] Filterscripts
+[11:28:26] ---------------
+[11:28:26]   Loading filterscript 'Switch.amx'...
+[11:28:26]   Unable to load filterscript 'Switch.amx'.
+[11:28:26]   Loaded 0 filterscripts.
+
+[11:28:26]  
+[11:28:26]  ========================================== 
+[11:28:26]  |                                        | 
+[11:28:26]  |    Generating code, this may take a    | 
+[11:28:26]  |           little bit of time.          | 
+[11:28:26]  |                                        | 
+[11:28:26]  |             Please wait...             | 
+[11:28:26]  |                                        | 
+[11:28:26]  ========================================== 
+[11:28:26]  |                                        | 
+[11:28:26]  | Note that this code generation works   | 
+[11:28:26]  | best with the JIT plugin, which you    | 
+[11:28:26]  | are not currently using.  Get it here: | 
+[11:28:26]  |                                        | 
+[11:28:26]  |        https://git.io/jit-plugin       | 
+[11:28:26]  |                                        | 
+[11:28:26]  ========================================== 
+[11:28:26]  
+[11:28:26]  
+[11:28:26]  
+[11:28:26]  
+[11:28:26]  ========================================== 
+[11:28:26]  |                                        | 
+[11:28:26]  |         YSI version 5.05.0301          | 
+[11:28:26]  |         By Alex "Y_Less" Cole          | 
+[11:28:26]  |                                        | 
+[11:28:26]  | Unable to check the latest YSI version | 
+[11:28:26]  | - please watch the forums and github:  | 
+[11:28:26]  |                                        | 
+[11:28:26]  |   https://git.io/5.x                   | 
+[11:28:26]  |                                        | 
+[11:28:26]  ========================================== 
+[11:28:26]  
+[11:28:26] [MySQL] - Terkoneksi!
+[11:28:26] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:28:26] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:28:55] password = ""  (string)
+[11:28:55] 
+[11:28:55] Server Plugins
+[11:28:55] --------------
+[11:28:55]  Loading plugin: sscanf
+[11:28:55] 
+
+[11:28:55]  ===============================
+
+[11:28:55]       sscanf plugin loaded.     
+
+[11:28:55]          Version:  2.8.3        
+
+[11:28:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:28:55]  ===============================
+
+[11:28:55]   Loaded.
+[11:28:55]  Loading plugin: irc
+[11:28:55] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:28:55]   Loaded.
+[11:28:55]  Loading plugin: streamer
+[11:28:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:28:55]   Loaded.
+[11:28:55]  Loading plugin: samp_bcrypt
+[11:28:55] [SampBcrypt] [info]: Version: 0.3.2
+[11:28:55]   Loaded.
+[11:28:55]  Loading plugin: mysql
+[11:28:55]  >> plugin.mysql: R41-4 successfully loaded.
+[11:28:55]   Loaded.
+[11:28:55]  Loaded 5 plugins.
+
+[11:28:55] 
+[11:28:55] Filterscripts
+[11:28:55] ---------------
+[11:28:55]   Loading filterscript 'Switch.amx'...
+[11:28:55]   Unable to load filterscript 'Switch.amx'.
+[11:28:55]   Loaded 0 filterscripts.
+
+[11:28:55]  
+[11:28:55]  ========================================== 
+[11:28:55]  |                                        | 
+[11:28:55]  |    Generating code, this may take a    | 
+[11:28:55]  |           little bit of time.          | 
+[11:28:55]  |                                        | 
+[11:28:55]  |             Please wait...             | 
+[11:28:55]  |                                        | 
+[11:28:55]  ========================================== 
+[11:28:55]  |                                        | 
+[11:28:55]  | Note that this code generation works   | 
+[11:28:55]  | best with the JIT plugin, which you    | 
+[11:28:55]  | are not currently using.  Get it here: | 
+[11:28:55]  |                                        | 
+[11:28:55]  |        https://git.io/jit-plugin       | 
+[11:28:55]  |                                        | 
+[11:28:55]  ========================================== 
+[11:28:55]  
+[11:28:55]  
+[11:28:55]  
+[11:28:55]  
+[11:28:55]  ========================================== 
+[11:28:55]  |                                        | 
+[11:28:55]  |         YSI version 5.05.0301          | 
+[11:28:55]  |         By Alex "Y_Less" Cole          | 
+[11:28:55]  |                                        | 
+[11:28:55]  | Unable to check the latest YSI version | 
+[11:28:55]  | - please watch the forums and github:  | 
+[11:28:55]  |                                        | 
+[11:28:55]  |   https://git.io/5.x                   | 
+[11:28:55]  |                                        | 
+[11:28:55]  ========================================== 
+[11:28:55]  
+[11:28:55] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:28:55] Number of vehicle models: 28
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:36:02] password = ""  (string)
+[11:36:02] 
+[11:36:02] Server Plugins
+[11:36:02] --------------
+[11:36:02]  Loading plugin: sscanf
+[11:36:02] 
+
+[11:36:02]  ===============================
+
+[11:36:02]       sscanf plugin loaded.     
+
+[11:36:02]          Version:  2.8.3        
+
+[11:36:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:36:02]  ===============================
+
+[11:36:02]   Loaded.
+[11:36:02]  Loading plugin: irc
+[11:36:02] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[11:36:02]   Loaded.
+[11:36:02]  Loading plugin: streamer
+[11:36:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:36:02]   Loaded.
+[11:36:02]  Loading plugin: samp_bcrypt
+[11:36:02] [SampBcrypt] [info]: Version: 0.3.2
+[11:36:02]   Loaded.
+[11:36:02]  Loading plugin: mysql
+[11:36:02]  >> plugin.mysql: R41-4 successfully loaded.
+[11:36:02]   Loaded.
+[11:36:02]  Loaded 5 plugins.
+
+[11:36:02] 
+[11:36:02] Filterscripts
+[11:36:02] ---------------
+[11:36:02]   Loading filterscript 'Switch.amx'...
+[11:36:02]   Unable to load filterscript 'Switch.amx'.
+[11:36:02]   Loaded 0 filterscripts.
+
+[11:36:02]  
+[11:36:02]  ========================================== 
+[11:36:02]  |                                        | 
+[11:36:02]  |    Generating code, this may take a    | 
+[11:36:02]  |           little bit of time.          | 
+[11:36:02]  |                                        | 
+[11:36:02]  |             Please wait...             | 
+[11:36:02]  |                                        | 
+[11:36:02]  ========================================== 
+[11:36:02]  |                                        | 
+[11:36:02]  | Note that this code generation works   | 
+[11:36:02]  | best with the JIT plugin, which you    | 
+[11:36:02]  | are not currently using.  Get it here: | 
+[11:36:02]  |                                        | 
+[11:36:02]  |        https://git.io/jit-plugin       | 
+[11:36:02]  |                                        | 
+[11:36:02]  ========================================== 
+[11:36:02]  
+[11:36:02]  
+[11:36:02]  
+[11:36:02]  
+[11:36:02]  ========================================== 
+[11:36:02]  |                                        | 
+[11:36:02]  |         YSI version 5.05.0301          | 
+[11:36:02]  |         By Alex "Y_Less" Cole          | 
+[11:36:02]  |                                        | 
+[11:36:02]  | Unable to check the latest YSI version | 
+[11:36:02]  | - please watch the forums and github:  | 
+[11:36:02]  |                                        | 
+[11:36:02]  |   https://git.io/5.x                   | 
+[11:36:02]  |                                        | 
+[11:36:02]  ========================================== 
+[11:36:02]  
+[11:36:02] [MySQL] - Terkoneksi!
+[11:36:02] Script[gamemodes/NewUpdate.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[11:36:02] Number of vehicle models: 28
+[11:36:28] [connection] incoming connection: 127.0.0.1:59265 id: 0
+[11:36:28] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[11:36:36] [nick] Kazuji_Takashi nick changed to Takashi
+[11:37:12] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:51:38] password = ""  (string)
+[13:51:38] 
+[13:51:38] Server Plugins
+[13:51:38] --------------
+[13:51:38]  Loading plugin: sscanf
+[13:51:38] 
+
+[13:51:38]  ===============================
+
+[13:51:38]       sscanf plugin loaded.     
+
+[13:51:38]          Version:  2.8.3        
+
+[13:51:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:51:38]  ===============================
+
+[13:51:38]   Loaded.
+[13:51:38]  Loading plugin: irc
+[13:51:38] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[13:51:38]   Loaded.
+[13:51:38]  Loading plugin: streamer
+[13:51:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:51:38]   Loaded.
+[13:51:38]  Loading plugin: samp_bcrypt
+[13:51:38] [SampBcrypt] [info]: Version: 0.3.2
+[13:51:38]   Loaded.
+[13:51:38]  Loading plugin: mysql
+[13:51:38]  >> plugin.mysql: R41-4 successfully loaded.
+[13:51:38]   Loaded.
+[13:51:38]  Loaded 5 plugins.
+
+[13:51:38] I couldn't load any gamemode scripts. Please verify your server.cfg
+[13:51:38] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:55:34] password = ""  (string)
+[13:55:34] 
+[13:55:34] Server Plugins
+[13:55:34] --------------
+[13:55:34]  Loading plugin: sscanf
+[13:55:34] 
+
+[13:55:34]  ===============================
+
+[13:55:34]       sscanf plugin loaded.     
+
+[13:55:34]          Version:  2.8.3        
+
+[13:55:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:55:34]  ===============================
+
+[13:55:34]   Loaded.
+[13:55:34]  Loading plugin: irc
+[13:55:34] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[13:55:35]   Loaded.
+[13:55:35]  Loading plugin: streamer
+[13:55:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:55:35]   Loaded.
+[13:55:35]  Loading plugin: samp_bcrypt
+[13:55:35] [SampBcrypt] [info]: Version: 0.3.2
+[13:55:35]   Loaded.
+[13:55:35]  Loading plugin: mysql
+[13:55:35]  >> plugin.mysql: R41-4 successfully loaded.
+[13:55:35]   Loaded.
+[13:55:35]  Loaded 5 plugins.
+
+[13:55:35] 
+[13:55:35] Filterscripts
+[13:55:35] ---------------
+[13:55:35]   Loading filterscript 'Switch.amx'...
+[13:55:35]   Unable to load filterscript 'Switch.amx'.
+[13:55:35]   Loaded 0 filterscripts.
+
+[13:55:35]  
+[13:55:35]  ========================================== 
+[13:55:35]  |                                        | 
+[13:55:35]  |    Generating code, this may take a    | 
+[13:55:35]  |           little bit of time.          | 
+[13:55:35]  |                                        | 
+[13:55:35]  |             Please wait...             | 
+[13:55:35]  |                                        | 
+[13:55:35]  ========================================== 
+[13:55:35]  |                                        | 
+[13:55:35]  | Note that this code generation works   | 
+[13:55:35]  | best with the JIT plugin, which you    | 
+[13:55:35]  | are not currently using.  Get it here: | 
+[13:55:35]  |                                        | 
+[13:55:35]  |        https://git.io/jit-plugin       | 
+[13:55:35]  |                                        | 
+[13:55:35]  ========================================== 
+[13:55:35]  
+[13:55:35]  
+[13:55:35]  
+[13:55:35]  
+[13:55:35]  ========================================== 
+[13:55:35]  |                                        | 
+[13:55:35]  |         YSI version 5.05.0301          | 
+[13:55:35]  |         By Alex "Y_Less" Cole          | 
+[13:55:35]  |                                        | 
+[13:55:35]  | Unable to check the latest YSI version | 
+[13:55:35]  | - please watch the forums and github:  | 
+[13:55:35]  |                                        | 
+[13:55:35]  |   https://git.io/5.x                   | 
+[13:55:35]  |                                        | 
+[13:55:35]  ========================================== 
+[13:55:35]  
+[13:55:35] [MySQL] - Terkoneksi!
+[13:55:35] Script[gamemodes/BahasaIndonesia.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[13:55:35] Number of vehicle models: 30
+[13:56:09] [connection] incoming connection: 127.0.0.1:49747 id: 0
+[13:56:09] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[13:56:21] [nick] Kazuji_Takashi nick changed to Takashi
+[13:57:00] [chat] [Takashi]: waoh mappingnya belom gw add
+[13:57:04] [nick] Takashi nick changed to Kazuji_Takashi
+[13:59:38] [chat] [Kazuji_Takashi]: buset
+[14:00:09] [death] Kazuji_Takashi died 54
+[14:01:18] [part] Kazuji_Takashi has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:03:48] password = ""  (string)
+[14:03:48] 
+[14:03:48] Server Plugins
+[14:03:48] --------------
+[14:03:48]  Loading plugin: sscanf
+[14:03:48] 
+
+[14:03:48]  ===============================
+
+[14:03:48]       sscanf plugin loaded.     
+
+[14:03:48]          Version:  2.8.3        
+
+[14:03:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:03:48]  ===============================
+
+[14:03:48]   Loaded.
+[14:03:48]  Loading plugin: irc
+[14:03:48] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[14:03:48]   Loaded.
+[14:03:48]  Loading plugin: streamer
+[14:03:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:03:48]   Loaded.
+[14:03:48]  Loading plugin: samp_bcrypt
+[14:03:48] [SampBcrypt] [info]: Version: 0.3.2
+[14:03:48]   Loaded.
+[14:03:48]  Loading plugin: mysql
+[14:03:48]  >> plugin.mysql: R41-4 successfully loaded.
+[14:03:48]   Loaded.
+[14:03:48]  Loaded 5 plugins.
+
+[14:03:48] 
+[14:03:48] Filterscripts
+[14:03:48] ---------------
+[14:03:48]   Loading filterscript 'Switch.amx'...
+[14:03:48]   Unable to load filterscript 'Switch.amx'.
+[14:03:48]   Loaded 0 filterscripts.
+
+[14:03:48]  
+[14:03:48]  ========================================== 
+[14:03:48]  |                                        | 
+[14:03:48]  |    Generating code, this may take a    | 
+[14:03:48]  |           little bit of time.          | 
+[14:03:48]  |                                        | 
+[14:03:48]  |             Please wait...             | 
+[14:03:48]  |                                        | 
+[14:03:48]  ========================================== 
+[14:03:48]  |                                        | 
+[14:03:48]  | Note that this code generation works   | 
+[14:03:48]  | best with the JIT plugin, which you    | 
+[14:03:48]  | are not currently using.  Get it here: | 
+[14:03:48]  |                                        | 
+[14:03:48]  |        https://git.io/jit-plugin       | 
+[14:03:48]  |                                        | 
+[14:03:48]  ========================================== 
+[14:03:48]  
+[14:03:48]  
+[14:03:48]  
+[14:03:48]  
+[14:03:48]  ========================================== 
+[14:03:48]  |                                        | 
+[14:03:48]  |         YSI version 5.05.0301          | 
+[14:03:48]  |         By Alex "Y_Less" Cole          | 
+[14:03:48]  |                                        | 
+[14:03:48]  | Unable to check the latest YSI version | 
+[14:03:48]  | - please watch the forums and github:  | 
+[14:03:48]  |                                        | 
+[14:03:48]  |   https://git.io/5.x                   | 
+[14:03:48]  |                                        | 
+[14:03:48]  ========================================== 
+[14:03:48]  
+[14:03:48] [MySQL] - Terkoneksi!
+[14:03:48] Script[gamemodes/BahasaIndonesia.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[14:03:48] Number of vehicle models: 30
+[14:05:41] [connection] incoming connection: 127.0.0.1:58429 id: 0
+[14:05:41] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[14:05:49] [nick] Kazuji_Takashi nick changed to Takashi
+[14:07:07] [nick] Takashi nick changed to Kazuji_Takashi
+[14:10:24] [chat] [Kazuji_Takashi]: commandnya masih banyak cuma saya lupa 
+[14:10:31] [nick] Kazuji_Takashi nick changed to Takashi
+[14:10:51] [chat] [Takashi]: oke sekian trmksh dah nyoba gm ini, hope you like it!
+[14:11:06] [part] Takashi has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:12:04] password = ""  (string)
+[14:12:04] 
+[14:12:04] Server Plugins
+[14:12:04] --------------
+[14:12:04]  Loading plugin: sscanf
+[14:12:04] 
+
+[14:12:04]  ===============================
+
+[14:12:04]       sscanf plugin loaded.     
+
+[14:12:04]          Version:  2.8.3        
+
+[14:12:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:12:04]  ===============================
+
+[14:12:04]   Loaded.
+[14:12:04]  Loading plugin: irc
+[14:12:04] 
+
+*** IRC Plugin v1.4.3 by Incognito loaded ***
+
+[14:12:04]   Loaded.
+[14:12:04]  Loading plugin: streamer
+[14:12:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:12:04]   Loaded.
+[14:12:04]  Loading plugin: samp_bcrypt
+[14:12:04] [SampBcrypt] [info]: Version: 0.3.2
+[14:12:04]   Loaded.
+[14:12:04]  Loading plugin: mysql
+[14:12:04]  >> plugin.mysql: R41-4 successfully loaded.
+[14:12:04]   Loaded.
+[14:12:04]  Loaded 5 plugins.
+
+[14:12:04] 
+[14:12:04] Filterscripts
+[14:12:04] ---------------
+[14:12:04]   Loading filterscript 'Switch.amx'...
+[14:12:04]   Unable to load filterscript 'Switch.amx'.
+[14:12:04]   Loaded 0 filterscripts.
+
+[14:12:04]  
+[14:12:04]  ========================================== 
+[14:12:04]  |                                        | 
+[14:12:04]  |    Generating code, this may take a    | 
+[14:12:04]  |           little bit of time.          | 
+[14:12:04]  |                                        | 
+[14:12:04]  |             Please wait...             | 
+[14:12:04]  |                                        | 
+[14:12:04]  ========================================== 
+[14:12:04]  |                                        | 
+[14:12:04]  | Note that this code generation works   | 
+[14:12:04]  | best with the JIT plugin, which you    | 
+[14:12:04]  | are not currently using.  Get it here: | 
+[14:12:04]  |                                        | 
+[14:12:04]  |        https://git.io/jit-plugin       | 
+[14:12:04]  |                                        | 
+[14:12:04]  ========================================== 
+[14:12:04]  
+[14:12:04]  
+[14:12:04]  
+[14:12:04]  
+[14:12:04]  ========================================== 
+[14:12:04]  |                                        | 
+[14:12:04]  |         YSI version 5.05.0301          | 
+[14:12:04]  |         By Alex "Y_Less" Cole          | 
+[14:12:04]  |                                        | 
+[14:12:04]  | Unable to check the latest YSI version | 
+[14:12:04]  | - please watch the forums and github:  | 
+[14:12:04]  |                                        | 
+[14:12:04]  |   https://git.io/5.x                   | 
+[14:12:04]  |                                        | 
+[14:12:04]  ========================================== 
+[14:12:04]  
+[14:12:04] [MySQL] - Terkoneksi!
+[14:12:04] Script[gamemodes/BahasaIndonesia.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[14:12:04] Number of vehicle models: 30
+[14:12:26] [connection] incoming connection: 127.0.0.1:62473 id: 0
+[14:12:26] [join] Kazuji_Takashi has joined the server (0:127.0.0.1)
+[14:12:32] [nick] Kazuji_Takashi nick changed to Takashi
+[14:12:52] [part] Takashi has left the server (0:1)

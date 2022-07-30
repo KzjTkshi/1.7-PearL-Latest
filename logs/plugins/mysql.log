@@ -1,0 +1,69 @@
+[10:13:53] [WARNING] mysql_connect: no password specified
+[10:13:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'xyronite''
+[10:13:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'xyronite''
+[10:13:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'xyronite''
+[10:13:53] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'xyronite''
+[10:16:47] [WARNING] mysql_connect: no password specified
+[07:39:58] [WARNING] mysql_connect: no password specified
+[14:56:30] [WARNING] mysql_connect: no password specified
+[14:56:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:56:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:56:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:56:30] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:57:03] [WARNING] mysql_connect: no password specified
+[14:57:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:57:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:57:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:57:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:58:18] [WARNING] mysql_connect: no password specified
+[14:58:18] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:58:18] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:58:18] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:58:18] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'basic''
+[14:59:27] [WARNING] mysql_connect: no password specified
+[15:00:36] [WARNING] mysql_connect: no password specified
+[15:38:40] [WARNING] mysql_connect: no password specified
+[15:39:09] [WARNING] mysql_connect: no password specified
+[15:46:24] [WARNING] mysql_connect: no password specified
+[15:46:48] [WARNING] mysql_connect: no password specified
+[15:47:17] [WARNING] mysql_connect: no password specified
+[15:48:38] [WARNING] mysql_connect: no password specified
+[15:49:06] [WARNING] mysql_connect: no password specified
+[15:52:32] [WARNING] mysql_connect: no password specified
+[15:52:39] [WARNING] mysql_connect: no password specified
+[15:52:45] [WARNING] mysql_connect: no password specified
+[15:53:12] [WARNING] mysql_connect: no password specified
+[15:54:06] [WARNING] mysql_connect: no password specified
+[15:56:58] [WARNING] mysql_connect: no password specified
+[15:57:08] [WARNING] mysql_connect: no password specified
+[16:07:55] [WARNING] mysql_connect: no password specified
+[16:13:50] [WARNING] mysql_connect: no password specified
+[16:15:03] [WARNING] mysql_connect: no password specified
+[16:16:53] [WARNING] mysql_connect: no password specified
+[16:20:08] [WARNING] mysql_connect: no password specified
+[16:22:30] [WARNING] mysql_connect: no password specified
+[16:27:42] [WARNING] mysql_connect: no password specified
+[16:30:55] [WARNING] mysql_connect: no password specified
+[16:34:46] [WARNING] mysql_connect: no password specified
+[11:30:14] [WARNING] mysql_connect: no password specified
+[11:34:00] [WARNING] mysql_connect: no password specified
+[11:51:56] [WARNING] mysql_connect: no password specified
+[12:05:41] [WARNING] mysql_connect: no password specified
+[12:11:31] [WARNING] mysql_connect: no password specified
+[23:22:55] [WARNING] mysql_connect: no password specified
+[16:40:10] [WARNING] mysql_connect: no password specified
+[16:43:32] [WARNING] mysql_connect: no password specified
+[16:44:47] [WARNING] mysql_connect: no password specified
+[17:11:41] [WARNING] mysql_connect: no password specified
+[10:09:31] [WARNING] mysql_connect: no password specified
+[11:09:16] [WARNING] mysql_connect: no password specified
+[11:10:07] [WARNING] mysql_connect: no password specified
+[11:15:33] [WARNING] mysql_connect: no password specified
+[11:27:55] [WARNING] mysql_connect: no password specified
+[11:28:26] [WARNING] mysql_connect: no password specified
+[11:36:02] [WARNING] mysql_connect: no password specified
+[13:55:35] [WARNING] mysql_connect: no password specified
+[14:01:17] [ERROR] mysql_format: no value for specifier '%s' passed
+[14:01:17] [ERROR] error #1065 while executing query "": Query was empty
+[14:03:48] [WARNING] mysql_connect: no password specified
+[14:12:04] [WARNING] mysql_connect: no password specified
